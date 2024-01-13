@@ -118,14 +118,14 @@ export default createStore({
             key: "n",
             text_uz: " mashq",
             text_en: "exercise",
-            description: "Do you spend a lot of time with your family?",
+            description: "You should do some exercise.",
           },
           {
             id: 16,
             key: "n",
             text_uz: "oila",
             text_en: "family",
-            description: "What is your home address?",
+            description: "Do you spend a lot of time with your family?",
           },
           {
             id: 17,
@@ -196,7 +196,7 @@ export default createStore({
             key: "adv",
             text_uz: "ichkarida",
             text_en: "indoors",
-            description: "He does karate most days.",
+            description: "We sometimes play cards indoors",
           },
           {
             id: 27,
@@ -210,7 +210,7 @@ export default createStore({
             key: "n",
             text_uz: "karate",
             text_en: "karate",
-            description: "What is your home address?",
+            description: "He does karate most days.",
           },
           {
             id: 29,
@@ -281,7 +281,7 @@ export default createStore({
             key: "n",
             text_uz: "davr",
             text_en: "period",
-            description: "Thereds ofTain late be some short period of rain later.",
+            description: "There are going to be some short periods of rain later.",
           },
           {
             id: 39,
@@ -330,7 +330,7 @@ export default createStore({
             key: "n",
             text_uz: "qayd ",
             text_en: "record ",
-            description: "always make a record of everything spend in a day. ",
+            description: "I always make a record of everything spend in a day. ",
           },
           {
             id: 46,
@@ -582,7 +582,7 @@ export default createStore({
             text_uz: "uy ro'zg'or buyumlari",
             text_en: "household possessions",
             description:
-              "Huang Qingjun takes photos of pousehold postsichomes with their",
+              "Huang Qingjun takes photos of people outside their homes with their household possessions.",
           },
           {
             id: 19,
@@ -1361,8 +1361,8 @@ export default createStore({
           {
             id: 1,
             key: "adv",
-            text_uz: "about",
-            text_en: "taxminan",
+            text_uz: "taxminan",
+            text_en: "about",
             description: "I think she's about thirty-five",
           },
           {
@@ -2278,7 +2278,7 @@ export default createStore({
             id: 7,
             key: "adj ",
             text_uz: "ijodkor ",
-            text_en: " creativ",
+            text_en: " creative",
             description: "He's quite creative and often has new ideas.",
           },
           {
@@ -2332,7 +2332,7 @@ export default createStore({
           },
           {
             id: 15,
-            key: "adj ",
+            key: "phr ",
             text_uz: "ajrashmoq  ",
             text_en: " get divorced",
             description: "You get divorced only if your marriage goes wrong",
@@ -2374,7 +2374,7 @@ export default createStore({
           },
           {
             id: 21,
-            key: "adj ",
+            key: "n ",
             text_uz: "kamgap",
             text_en: "introvert",
             description:
@@ -2512,7 +2512,7 @@ export default createStore({
           {
             id: 40,
             key: "adj",
-            text_uz: "bemehr",
+            text_uz: "tartibsiz",
             text_en: "untidy",
             description: "The children are so untidy. Look at their bedroom!",
           },
@@ -2525,7 +2525,7 @@ export default createStore({
           },
           {
             id: 42,
-            key: "adj",
+            key: "n",
             text_uz: "ish joyi",
             text_en: "workplace",
             description:
