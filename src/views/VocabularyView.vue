@@ -37,7 +37,6 @@
 </template>
 
 <script setup>
-import TTS from "text-to-speech-offline";
 import { computed } from "vue";
 import { useStore } from "vuex";
 import { useRoute } from "vue-router";
@@ -55,9 +54,10 @@ const unit = computed(() => {
 });
 
 function speechText(eng, desc) {
-  TTS(eng, "en-GB", 1, 0.9);
+  window.responsiveVoice.speak(eng, "UK English Male", { rate: 0.9 });
   setTimeout(() => {
-    TTS(desc, "en-GB", 1, 0.9);
+    window.responsiveVoice.speak(desc, "UK English Male", { rate: 0.9 });
+    console.clear();
   }, 2000);
 }
 </script>

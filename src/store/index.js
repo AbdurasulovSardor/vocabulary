@@ -508,7 +508,7 @@ export default createStore({
           {
             id: 8,
             key: "v",
-            text_uz: "yig moq",
+            text_uz: "yig'moq",
             text_en: "collect",
             description: "They are developing a new way to collect rubbish.",
           },
@@ -925,7 +925,7 @@ export default createStore({
             text_uz: "yutuq",
             text_en: "achievement",
             description:
-              "Hello and welco where we look Istory, the programme where we look back at human achievements that have changed history.",
+              "Hello and welcome to Making History the programme where we look back at human achievements that have changed history.",
           },
           {
             id: 2,
@@ -958,7 +958,7 @@ export default createStore({
           {
             id: 6,
             key: "adv",
-            text_uz: "orqaga, chalgancha",
+            text_uz: "orqaga, chalqancha",
             text_en: "backwards",
             description: "Scuba divers always dive backwards out of a boat.",
           },
@@ -994,24 +994,24 @@ export default createStore({
           {
             id: 11,
             key: "n",
-            text_uz: "kapsule",
-            text_en: "capsula",
+            text_uz: "kapsula",
+            text_en: "capsule",
             description: "He came slowly out of the capsule.",
           },
           {
             id: 12,
             key: "v",
-            text_uz: "oshib tushmoq",
-            text_en: "climb,",
+            text_uz: "oshib tushmoq, tirmashib chiqmoq",
+            text_en: "climb",
             description:
               "I haven't got my key. I know - l'll climb in through that open window.",
           },
           {
             id: 13,
             key: "adj",
-            text_uz: "chalkashgan, boshi gotgan",
+            text_uz: "chalkashgan, boshi qotgan",
             text_en: "confused",
-            description: "Ifeel very confused. I don't know what to do!",
+            description: "I feel very confused. I don't know what to do!",
           },
           {
             id: 14,
@@ -1059,7 +1059,7 @@ export default createStore({
           {
             id: 20,
             key: "adj",
-            text_uz: "hayajonlanmoq",
+            text_uz: "hayajonlangan, hursand",
             text_en: "excited",
             description: "I feel so excited about journey tomorrow.",
           },
@@ -1143,7 +1143,7 @@ export default createStore({
           {
             id: 32,
             key: "v",
-            text_uz: "sakramog",
+            text_uz: "sakramoq",
             text_en: "jump",
             description: "Everybody shouted and jumped up and down.",
           },
@@ -1170,14 +1170,14 @@ export default createStore({
           },
           {
             id: 36,
-            key: "prep",
+            key: "n",
             text_uz: "qo'rginchli tush",
             text_en: "nightmare",
             description: "I had a terrible nightmare last night.",
           },
           {
             id: 37,
-            key: "v",
+            key: "prep",
             text_uz: "ichidan",
             text_en: "out of",
             description: "He came out of the capsule.",
@@ -1229,7 +1229,7 @@ export default createStore({
             key: "n",
             text_uz: "kitobxon",
             text_en: "reader",
-            description: "He's a slow reader",
+            description: "He's a slow reader.",
           },
           {
             id: 45,
@@ -1404,12 +1404,12 @@ export default createStore({
             id: 7,
             key: "v",
             text_uz: "xarid qilmoq",
-            text_en: "bey",
+            text_en: "buy",
             description: "I want to buy a new T-shirt.",
           },
           {
             id: 8,
-            key: "v",
+            key: "n",
             text_uz: "qiyinchilik, sinov",
             text_en: "challenge",
             description: "He did the challenges for a few.",
@@ -1438,15 +1438,7 @@ export default createStore({
           {
             id: 12,
             key: "n",
-            text_uz: "drijor",
-            text_en: "conductor",
-            description:
-              "HJoão Carlos Martins is a famous Brazilian classical pianist and conductor.",
-          },
-          {
-            id: 13,
-            key: "b",
-            text_uz: "drijor",
+            text_uz: "dirijor",
             text_en: "conductor",
             description:
               "HJoão Carlos Martins is a famous Brazilian classical pianist and conductor.",
@@ -1480,13 +1472,6 @@ export default createStore({
             description: "When did you get engaged?",
           },
           {
-            id: 18,
-            key: "adj",
-            text_uz: "unashtirilgan",
-            text_en: "engaged",
-            description: "When did you get engaged?",
-          },
-          {
             id: 19,
             key: "phr",
             text_uz: "turmush qurmoq",
@@ -1512,7 +1497,7 @@ export default createStore({
             key: "v",
             text_uz: "farzand ko'rmoq",
             text_en: "have  a baby/children",
-            description: "We wnat to have children",
+            description: "We want to have children",
           },
           {
             id: 23,
@@ -1579,7 +1564,7 @@ export default createStore({
           },
           {
             id: 32,
-            key: "n",
+            key: "phr",
             text_uz: "ko'chmoq",
             text_en: "move house or flat",
             description: "Martha moved house last week..",
@@ -1593,9 +1578,9 @@ export default createStore({
           },
           {
             id: 34,
-            key: "v",
+            key: "phr",
             text_uz: "imtihondan o'tmoq",
-            text_en: "path your exam/driving test",
+            text_en: "pass your exams/driving test",
             description: "Did you pass all your exams?",
           },
           {
@@ -1605,13 +1590,6 @@ export default createStore({
             text_en: "perform",
             description:
               "He learned to play the piano when he was a child and as a teenager he performed in concerts around the world.",
-          },
-          {
-            id: 36,
-            key: "v",
-            text_uz: "imtihondan o'tmoq",
-            text_en: "path your exam/driving test",
-            description: "Did you pass all your exams?",
           },
           {
             id: 37,
@@ -1630,7 +1608,7 @@ export default createStore({
           {
             id: 39,
             key: "v",
-            text_uz: "inafaqaga chiqmoq",
+            text_uz: "nafaqaga chiqmoq",
             text_en: "retire",
             description: "He's going to retire from teaching next year.",
           },
@@ -1665,7 +1643,7 @@ export default createStore({
           },
           {
             id: 44,
-            key: "n",
+            key: "v",
             text_uz: "onlayn xarid qilmoq",
             text_en: "shop online",
             description: "I like to shop online.",
@@ -1749,7 +1727,7 @@ export default createStore({
             key: "v",
             text_uz: "qurbi yetmoq; imkoniyatga ega bo'lmoq",
             text_en: "afford",
-            description: "What would you like to buy, but can't afford right now.",
+            description: "What would you like to buy, but can't afford right now?",
           },
           {
             id: 3,
@@ -1757,7 +1735,7 @@ export default createStore({
             text_uz: "qoldiq",
             text_en: "balance",
             description:
-              "I check my balance regularly sol know how much money there is in my bank account.",
+              "I check my balance regularly so I know how much money there is in my bank account.",
           },
           {
             id: 4,
