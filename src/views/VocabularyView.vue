@@ -57,7 +57,6 @@ function speechText(eng, desc) {
   window.responsiveVoice.speak(eng, "UK English Male");
   setTimeout(() => {
     window.responsiveVoice.speak(desc, "UK English Male");
-    console.clear();
   }, 2000);
 }
 </script>

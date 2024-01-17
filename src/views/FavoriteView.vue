@@ -43,9 +43,9 @@ onMounted(() => {
 });
 
 function speechText(eng, desc) {
-  window.responsiveVoice.speak(eng, "UK English Male", { rate: 0.9 });
+  window.responsiveVoice.speak(eng, "UK English Male");
   setTimeout(() => {
-    window.responsiveVoice.speak(desc, "UK English Male", { rate: 0.9 });
+    window.responsiveVoice.speak(desc, "UK English Male");
   }, 2000);
 }
 </script>
