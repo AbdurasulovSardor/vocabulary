@@ -1452,7 +1452,8 @@ export default createStore({
             text_uz: "beyzbol",
             text_en: "baseball",
             description: "When he has time, Matt Damon watches baseball",
-
+          },
+          {
             id: 6,
             key: "n",
             text_uz: "basketbol",
@@ -1872,7 +1873,8 @@ export default createStore({
             text_uz: "Janubiy Afrika",
             text_en: "South Africa",
             description: "We live in Johannesburg in South Africa",
-
+          },
+          {
             id: 66,
             key: "n",
             text_uz: "Janubiy Koreya",
@@ -2293,7 +2295,8 @@ export default createStore({
             text_uz: "xarid qilmoq",
             text_en: "go shopping",
             description: "I sometimes go shopping with my wife",
-
+          },
+          {
             id: 46,
             key: "phr",
             text_uz: "yahshi sifatli",
@@ -2356,7 +2359,8 @@ export default createStore({
             text_uz: "hind",
             text_en: "Indian",
             description: "Where do Indian women put henna?",
-
+          },
+          {
             id: 55,
             key: "n",
             text_uz: "ma'lumot",
@@ -4142,7 +4146,8 @@ export default createStore({
             text_uz: "beshinchi",
             text_en: "fifth",
             description: " ",
-
+          },
+          {
             id: 34,
             key: "-",
             text_uz: "oltinchi",
@@ -4346,7 +4351,8 @@ export default createStore({
             text_uz: "xisob",
             text_en: "bill",
             description: "A customer left a $3,000 tip on an $88 bill,",
-
+          },
+          {
             id: 6,
             key: "adj",
             text_uz: "cloud",
@@ -4541,7 +4547,8 @@ export default createStore({
             text_uz: "tanishmoq, uchratmoq",
             text_en: "meat",
             description: "We need some meat for the barbecue.",
-
+          },
+          {
             id: 34,
             key: "n",
             text_uz: "keyingi oy, kelasi oy",
@@ -4654,7 +4661,8 @@ export default createStore({
             text_uz: "gamburger",
             text_en: "burger",
             description: "A burger and chips, please.",
-
+          },
+          {
             id: 6,
             key: "phr",
             text_uz: "uy sotib olmoq",
@@ -4849,7 +4857,8 @@ export default createStore({
             text_uz: "chet elga ko`chib ketmoq",
             text_en: "move abroad",
             description: "We're going to move abroad.",
-
+          },
+          {
             id: 34,
             key: "adj",
             text_uz: "keyingi oy, kelasi oy",
