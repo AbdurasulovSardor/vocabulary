@@ -10,7 +10,7 @@ export default createStore({
             key: "n",
             text_uz: "manzil",
             text_en: "address",
-            description: "What is your home adress",
+            description: "What is your home adress?",
           },
           {
             id: 2,
@@ -92,8 +92,8 @@ export default createStore({
           {
             id: 13,
             key: "prep",
-            text_uz: "from",
-            text_en: "dan",
+            text_uz: "dan",
+            text_en: "from",
             description: "I am from Uzbekistan",
           },
           {

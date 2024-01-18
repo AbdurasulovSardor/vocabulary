@@ -51,8 +51,8 @@ function nextQuestion() {
   } else {
     incurrect.value = true;
     emits("nextQuestion", {
-      text: props.question.text_uz,
-      answer: props.question.answer,
+      text: props.question.answer,
+      answer: props.question.text_uz,
       worng: answer.value,
       description: props.question.description,
     });
