@@ -3361,7 +3361,7 @@ export default createStore({
           {
             id: 80,
             key: "n",
-            text_uz: "",
+            text_uz: "mehmon",
             text_en: "visitor",
             description: "Lewisburg has a lot of visitors.",
           },
@@ -3386,7 +3386,6 @@ export default createStore({
             text_en: "Wi-fi",
             description: "Is there free Wi-fi in the hotel?",
           },
-
         ],
         unit7: [
           {
