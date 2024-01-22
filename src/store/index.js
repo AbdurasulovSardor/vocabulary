@@ -332,7 +332,7 @@ export default createStore({
           {
             id: 1,
             key: " ",
-            text_uz: "noqniq artikl",
+            text_uz: "noaniq artikl",
             text_en: "a, an",
             description: "She's an engineer and he's a chef.",
           },
@@ -1139,7 +1139,7 @@ export default createStore({
           {
             id: 50,
             key: "v",
-            text_uz: "habar yubormoq",
+            text_uz: "xabar yubormoq",
             text_en: "Message",
             description: "Message me soon. Bye.",
           },
@@ -1799,7 +1799,7 @@ export default createStore({
           {
             id: 55,
             key: "n",
-            text_uz: "hiyobon",
+            text_uz: "xiyobon",
             text_en: "park",
             description: "London Zoo is in The Regent's Park",
           },
@@ -1857,7 +1857,7 @@ export default createStore({
             id: 63,
             key: "adj",
             text_uz: "o'xshash",
-            text_en: "sim ilar",
+            text_en: "similar",
             description: "Auma and her brother have different lives, but their jobs are similar",
           },
           {
@@ -1905,7 +1905,7 @@ export default createStore({
           {
             id: 70,
             key: "v",
-            text_uz: "o'rgatmoq'dars bermoq",
+            text_uz: "o'rgatmoq, dars bermoq",
             text_en: "teach",
             description: "They teach young people from poor families",
           },
@@ -1954,7 +1954,7 @@ export default createStore({
           {
             id: 77,
             key: "v",
-            text_uz: "piyoda yurmoq'sayr qilmoq",
+            text_uz: "piyoda yurmoq, sayr qilmoq",
             text_en: "walk",
             description: "He doesn't walk to work",
           },
