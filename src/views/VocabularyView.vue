@@ -10,27 +10,12 @@
         :key="dictionary.id"
         class="vocabulary__item"
       >
-        <div>
-          <div class="vocabulary__box">
-            <p class="vocabulary__text">
-              <img src="@/assets/img/united-kingdom.png" alt="flag" />
-              {{ dictionary.text_en }} <span>({{ dictionary.key }})</span>
-            </p>
-            <button
-              class="vocabulary__volume"
-              @click="speechText(dictionary.text_en, dictionary.description)"
-            >
-              <i class="bx bx-volume-full"></i>
-            </button>
-          </div>
-          <p class="vocabulary__text">
-            <img src="@/assets/img/uzbekistan.png" alt="flag" />
-            {{ dictionary.text_uz }}
-          </p>
-        </div>
-        <p class="vocabulary__description">
-          {{ dictionary.description }}
-        </p>
+        <VocabularyItem
+          :keyValue="dictionary.key"
+          :textEn="dictionary.text_en"
+          :textUz="dictionary.text_uz"
+          :description="dictionary.description"
+        />
       </li>
     </ul>
   </section>
@@ -40,12 +25,12 @@
 import { computed } from "vue";
 import { useStore } from "vuex";
 import { useRoute } from "vue-router";
+import VocabularyItem from "../components/VocabularyItem.vue";
 
 const route = useRoute();
 const store = useStore();
 
 let dictionaries = store.state[route.params.book][route.params.unit];
-let voice = window.responsiveVoice;
 
 const unit = computed(() => {
   let unitIndex = Object.keys(store.state[route.params.book]).findIndex(
@@ -53,16 +38,6 @@ const unit = computed(() => {
   );
   return unitIndex + 1;
 });
-
-function speechText(eng, desc) {
-  setTimeout(() => {
-    voice.speak(eng, "UK English Male");
-  }, 50);
-  setTimeout(() => {
-    voice.speak(desc, "UK English Male");
-    console.clear();
-  }, 2000);
-}
 </script>
 
 <style lang="scss" scoped>
@@ -90,42 +65,6 @@ function speechText(eng, desc) {
     padding: 15px;
     border-radius: 10px;
     margin-bottom: 15px;
-  }
-  &__box {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  &__volume {
-    border: none;
-    background: transparent;
-    outline: none;
-    font-size: 20px;
-    color: #1f2f70;
-    cursor: pointer;
-  }
-  &__text {
-    display: flex;
-    align-items: center;
-    font-size: 16px;
-    font-weight: 700;
-    margin-bottom: 10px;
-    color: #1f2f70;
-
-    img {
-      width: 25px;
-      margin-right: 10px;
-    }
-    span {
-      color: orange;
-      font-style: italic;
-      margin-left: 5px;
-    }
-  }
-  &__description {
-    font-size: 16px;
-    font-style: italic;
-    color: #363636;
   }
 }
 </style>
