@@ -45,6 +45,7 @@ const route = useRoute();
 const store = useStore();
 
 let dictionaries = store.state[route.params.book][route.params.unit];
+let voice = window.responsiveVoice;
 
 const unit = computed(() => {
   let unitIndex = Object.keys(store.state[route.params.book]).findIndex(
@@ -54,9 +55,10 @@ const unit = computed(() => {
 });
 
 function speechText(eng, desc) {
-  window.responsiveVoice.speak(eng, "UK English Male");
+  voice.speak(eng, "UK English Male");
   setTimeout(() => {
-    window.responsiveVoice.speak(desc, "UK English Male");
+    voice.speak(desc, "UK English Male");
+    console.clear();
   }, 2000);
 }
 </script>
