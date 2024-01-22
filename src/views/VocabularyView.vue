@@ -55,7 +55,9 @@ const unit = computed(() => {
 });
 
 function speechText(eng, desc) {
-  voice.speak(eng, "UK English Male");
+  setTimeout(() => {
+    voice.speak(eng, "UK English Male");
+  }, 50);
   setTimeout(() => {
     voice.speak(desc, "UK English Male");
     console.clear();
