@@ -17974,6 +17974,1645 @@ export default createStore({
             description: "If this changes in weather patterns have been happening as a result of global warming, then we should try to prevent further warming",
           }
         ],
+        unit7: [
+          {
+            "id": 1,
+            "key": "n",
+            "text_uz": "turar joy",
+            "text_en": "accommodation",
+            "description": "The job also came with rent - free accommodation in a beautiful apartment."
+          },
+          {
+            "id": 2,
+            "key": "adj",
+            "text_uz": "intiluvchan",
+            "text_en": "ambitious",
+            "description": "She was hardworking and ambitious."
+          },
+          {
+            "id": 3,
+            "key": "n",
+            "text_uz": "reklama",
+            "text_en": "advertisement",
+            "description": "I am writing regarding your advertisement for team leaders posted on the Jobs & Training website this month."
+          },
+          {
+            "id": 4,
+            "key": "n",
+            "text_uz": "niyyat, istak, ishtiyoq",
+            "text_en": "ambition",
+            "description": "I'd like to know if you have any further ambitions."
+          },
+          {
+            "id": 5,
+            "key": "n",
+            "text_uz": "antropolog",
+            "text_en": "anthropologist",
+            "description": "In her early twenties, she worked as a secretary to the anthropologist Louis Leakey."
+          },
+          {
+            "id": 6,
+            "key": "n",
+            "text_uz": "ariza beruvchi",
+            "text_en": "applicant",
+            "description": "Applicants should have at least a school leaver's certificate plus a strong interest in travel."
+          },
+          {
+            "id": 7,
+            "key": "v",
+            "text_uz": "ariza berish",
+            "text_en": "apply",
+            "description": "Send applications to Carmen Ramos at studytrips @travelabroad.com or apply online."
+          },
+          {
+            "id": 8,
+            "key": "n",
+            "text_uz": "jihat",
+            "text_en": "aspect",
+            "description": "Did you like that aspect of the job?"
+          },
+          {
+            "id": 9,
+            "key": "n",
+            "text_uz": "boshqaruvchi yordamchisi",
+            "text_en": "assistant manager",
+            "description": "I am working as an assistant manager."
+          },
+          {
+            "id": 10,
+            "key": "v",
+            "text_uz": "qatnashmoq",
+            "text_en": "attend",
+            "description": "I would be happy to attend an interview"
+          },
+          {
+            "id": 11,
+            "key": "n",
+            "text_uz": "munosabat",
+            "text_en": "attitude",
+            "description": "I want to be remembered as someone who helped to change attitudes towards animals."
+          },
+          {
+            "id": 12,
+            "key": "n",
+            "text_uz": "mukofot",
+            "text_en": "award",
+            "description": "He has received various awards for his achievements."
+          },
+          {
+            "id": 13,
+            "key": "n",
+            "text_uz": "xulq - atvor",
+            "text_en": "behaviour",
+            "description": "Jane soon became a researcher herself, studying the behaviour of wild apes and chimpanzees."
+          },
+          {
+            "id": 14,
+            "key": "v",
+            "text_uz": "ayblamoq",
+            "text_en": "blame",
+            "description": "You mustn't blame him."
+          },
+          {
+            "id": 15,
+            "key": "n",
+            "text_uz": "blogger",
+            "text_en": "blogger",
+            "description": "Blon Social bloggers wanted for online lifestyle magazine."
+          },
+          {
+            "id": 16,
+            "key": "n",
+            "text_uz": "bo'lim",
+            "text_en": "branch",
+            "description": "We are looking for people to lead teams in our new branches across the country."
+          },
+          {
+            "id": 17,
+            "key": "adj",
+            "text_uz": "yorqin",
+            "text_en": "bright",
+            "description": "For many years, people have moved to Europe in search of a brighter future."
+          },
+          {
+            "id": 18,
+            "key": "adj",
+            "text_uz": "chempion",
+            "text_en": "champion",
+            "description": "Rebecca Adlington is a champion swimmer."
+          },
+          {
+            "id": 19,
+            "key": "adj",
+            "text_uz": "o'ynoqi",
+            "text_en": "bubbly",
+            "description": "I want to be remembered as someone who enjoyed life, was bubbly and worked hard."
+          },
+          {
+            "id": 20,
+            "key": "v",
+            "text_uz": "yuqoriga chiqmoq",
+            "text_en": "climb",
+            "description": "Imagine you send out a group of scouts to a new land to find mountains to climb."
+          },
+          {
+            "id": 21,
+            "key": "v",
+            "text_uz": "diqqatni jamlamoq",
+            "text_en": "concentrate",
+            "description": "They believe that a school system that concentrates on marks and grades will reduce the ability of the kids to produce new ideas."
+          },
+          {
+            "id": 22,
+            "key": "adj",
+            "text_uz": "ijodiy",
+            "text_en": "creative",
+            "description": "The experts were worried that young people in France were not creative and innovative enough for the modern world."
+          },
+          {
+            "id": 23,
+            "key": "v",
+            "text_uz": "tanqid qilmoq",
+            "text_en": "criticize",
+            "description": "He says that if you criticize people for having good ideas, they will give up."
+          },
+          {
+            "id": 24,
+            "key": "n",
+            "text_uz": "mijozlarga xizmat",
+            "text_en": "customer care",
+            "description": "Customer care is very important in this company."
+          },
+          {
+            "id": 25,
+            "key": "n",
+            "text_uz": "qaror qabul qiluvchi",
+            "text_en": "decision marker",
+            "description": "Her sister's illness made her more determined to succeed."
+          },
+          {
+            "id": 26,
+            "key": "adj",
+            "text_uz": "qat'iy",
+            "text_en": "determined",
+            "description": "We want decision makers who are good with people."
+          },
+          {
+            "id": 27,
+            "key": "n",
+            "text_uz": "direktor",
+            "text_en": "director",
+            "description": "After two years, became a director."
+          },
+          {
+            "id": 28,
+            "key": "n",
+            "text_uz": "kelishmovchilik",
+            "text_en": "disagreement",
+            "description": "When was the last time you had a disagreement at work ?"
+          },
+          {
+            "id": 29,
+            "key": "n",
+            "text_uz": "ninachi",
+            "text_en": "dragonfly",
+            "description": "Have you ever seen a dragonfly ?"
+          }
+        ],
+        unit8: [
+          {
+            "id": 1,
+            "key": "adj",
+            "text_uz": "faol",
+            "text_en": "active",
+            "description": "If people are active in work and free time, they'll probably be healthier."
+          },
+          {
+            "id": 2,
+            "key": "v",
+            "text_uz": "moslashmoq",
+            "text_en": "adapt",
+            "description": "Some people have no problems adapting to different cultures."
+          },
+          {
+            "id": 3,
+            "key": "adj",
+            "text_uz": "qo'rqqan",
+            "text_en": "afraid",
+            "description": "It's about learning to make the right choices, even if we are afraid."
+          },
+          {
+            "id": 4,
+            "key": "v",
+            "text_uz": "qadrlamoq",
+            "text_en": "appreciate",
+            "description": "In the end, I came to appreciate Iceland's differences."
+          },
+          {
+            "id": 5,
+            "key": "adj",
+            "text_uz": "mos, muvofiq",
+            "text_en": "appropriate",
+            "description": "Make sure you are wearing the appropriate clothes for the meeting."
+          },
+          {
+            "id": 6,
+            "key": "n",
+            "text_uz": "tomoshabinlar",
+            "text_en": "audience",
+            "description": "She made appropriate eye-contact with the audience."
+          },
+          {
+            "id": 7,
+            "key": "adj",
+            "text_uz": "muvozanatli",
+            "text_en": "balanced",
+            "description": "Danish people tend to eat a balanced diet and get plenty of physical exercise."
+          },
+          {
+            "id": 8,
+            "key": "phr",
+            "text_uz": "qodir bo'lmoq",
+            "text_en": "be capable of",
+            "description": "Researchers believe we are all capable of becoming heroes."
+          },
+          {
+            "id": 9,
+            "key": "adj",
+            "text_uz": "jasur",
+            "text_en": "brave",
+            "description": "Do you think Clark was crazy or unusually brave?"
+          },
+          {
+            "id": 10,
+            "key": "phrv",
+            "text_uz": "tarbiyalamoq",
+            "text_en": "bring up",
+            "description": "I must say they've definitely got some things right when it comes to bringing up children."
+          },
+          {
+            "id": 11,
+            "key": "n",
+            "text_uz": "bezori",
+            "text_en": "bully",
+            "description": "If I were stronger, I would stop that bully!"
+          },
+          {
+            "id": 12,
+            "key": "adj",
+            "text_uz": "yonayotgan",
+            "text_en": "burning",
+            "description": "A firefighter risks his/her life every day to save people from burning buildings."
+          },
+          {
+            "id": 13,
+            "key": "adj",
+            "text_uz": "odatiy, erkin",
+            "text_en": "casual",
+            "description": "I had to replace my very casual clothes with some smarter ones."
+          },
+          {
+            "id": 14,
+            "key": "n",
+            "text_uz": "bolalarni parvarish qilish",
+            "text_en": "childcare",
+            "description": "Denmark is a very family-friendly country, with free or very cheap childcare provided by the government."
+          },
+          {
+            "id": 15,
+            "key": "n",
+            "text_uz": "yashash narxi",
+            "text_en": "cost of living",
+            "description": "The cost of living was another thing I quickly noticed."
+          },
+          {
+            "id": 16,
+            "key": "adj",
+            "text_uz": "shinam",
+            "text_en": "cosy",
+            "description": "The winter may be cold and dark, but there is a special term 'hygge', to describe a kind of cosy meeting with friends and family."
+          },
+          {
+            "id": 17,
+            "key": "n",
+            "text_uz": "hunar",
+            "text_en": "craft",
+            "description": "I suppose it's one of their traditional crafts."
+          },
+          {
+            "id": 18,
+            "key": "adj",
+            "text_uz": "madaniy",
+            "text_en": "cultural",
+            "description": "Danes spend a lot of their leisure time socializing and enjoying cultural activities."
+          },
+          {
+            "id": 19,
+            "key": "n",
+            "text_uz": "hayrat",
+            "text_en": "culture shock",
+            "description": "Since I moved to Iceland ten years ago, I've been through several different stages of culture shock."
+          },
+          {
+            "id": 20,
+            "key": "n",
+            "text_uz": "kamchilik",
+            "text_en": "disadvantage",
+            "description": "List all of the advantages and disadvantages on a piece of paper."
+          },
+          {
+            "id": 21,
+            "key": "n",
+            "text_uz": "falokat",
+            "text_en": "disaster",
+            "description": "Having been lucky enough to survive a disaster yourself makes you three times more likely to be a hero and a volunteer."
+          },
+          {
+            "id": 22,
+            "key": "n",
+            "text_uz": "kiyinish qoidalari",
+            "text_en": "dress code",
+            "description": "Make sure you find out what the dress code is for the party."
+          },
+          {
+            "id": 23,
+            "key": "n",
+            "text_uz": "iqtisodiyot",
+            "text_en": "economy",
+            "description": "What they do have is a strong economy."
+          },
+          {
+            "id": 24,
+            "key": "adj",
+            "text_uz": "o'qimishli",
+            "text_en": "educated",
+            "description": "The more educated you are, the more likely you are to be a hero."
+          },
+          {
+            "id": 25,
+            "key": "adj",
+            "text_uz": "xijolat bo'lgan",
+            "text_en": "embarrassed",
+            "description": "Women can be a bit embarrassed about their heroic actions."
+          },
+          {
+            "id": 26,
+            "key": "v",
+            "text_uz": "portlash",
+            "text_en": "explode",
+            "description": "He rushed over to help, even though the plane was on fire and might explode any minute."
+          },
+          {
+            "id": 27,
+            "key": "adj",
+            "text_uz": "nihoyatda",
+            "text_en": "extremely",
+            "description": "I was extremely embarrassed about it."
+          },
+          {
+            "id": 28,
+            "key": "n",
+            "text_uz": "ko'z bilan aloqa qilish",
+            "text_en": "eye contact",
+            "description": "I made eye-contact with them immediately."
+          },
+          {
+            "id": 29,
+            "key": "n",
+            "text_uz": "omil",
+            "text_en": "factor",
+            "description": "The third and last factor that affects our decision-making is the amount of information we have."
+          },
+          {
+            "id": 30,
+            "key": "n",
+            "text_uz": "qo'rquv",
+            "text_en": "fear",
+            "description": "He's someone who is ready to do things that are dangerous without showing any fear."
+          },
+          {
+            "id": 31,
+            "key": "n",
+            "text_uz": "o't o'chiruvchi",
+            "text_en": "firefighter",
+            "description": "If I were braver, I would be a firefighter."
+          },
+          {
+            "id": 32,
+            "key": "adj",
+            "text_uz": "rasmiy",
+            "text_en": "formal",
+            "description": "In the UK, we rarely wear formal clothes when we aren't at work."
+          },
+          {
+            "id": 33,
+            "key": "n",
+            "text_uz": "jins",
+            "text_en": "gender",
+            "description": "There's a difference with the genders when it comes to making decisions."
+          },
+          {
+            "id": 34,
+            "key": "adj",
+            "text_uz": "saxiy",
+            "text_en": "generous",
+            "description": "Kind, generous people are more likely to be heroes."
+          },
+          {
+            "id": 35,
+            "key": "n",
+            "text_uz": "daho",
+            "text_en": "genius",
+            "description": "Even a scientific genius like Charles Darwin is said to have used this method."
+          },
+          {
+            "id": 36,
+            "key": "phr",
+            "text_uz": "hech qanday muammo yo'q",
+            "text_en": "have no problems",
+            "description": "Some people have no problems adapting to different cultures."
+          },
+          {
+            "id": 37,
+            "key": "n",
+            "text_uz": "sog'liqni saqlash",
+            "text_en": "hero",
+            "description": "The more educated you are, the more likely you are to be a hero."
+          },
+          {
+            "id": 38,
+            "key": "adj",
+            "text_uz": "qahramon",
+            "text_en": "heroic",
+            "description": "One in five people has done something heroic."
+          },
+          {
+            "id": 39,
+            "key": "adv",
+            "text_uz": "qahramonona",
+            "text_en": "heroically",
+            "description": "Researchers at Berkeley University have spent the last five years studying what exactly makes people act heroically."
+          },
+          {
+            "id": 40,
+            "key": "n",
+            "text_uz": "qahramonlik",
+            "text_en": "heroism",
+            "description": "Men reported heroism more than women."
+          },
+          {
+            "id": 41,
+            "key": "adj",
+            "text_uz": "darhol, yaqin",
+            "text_en": "immediate",
+            "description": "Some Icelanders wear suits to meet their immediate family on important days of the year."
+          },
+          {
+            "id": 42,
+            "key": "n",
+            "text_uz": "to'qish",
+            "text_en": "knitting",
+            "description": "They teach knitting in schools."
+          },
+          {
+            "id": 43,
+            "key": "n",
+            "text_uz": "lotereya",
+            "text_en": "lottery",
+            "description": "If we won the lottery, we would give some money to charity."
+          },
+          {
+            "id": 44,
+            "key": "n",
+            "text_uz": "usul",
+            "text_en": "method",
+            "description": "One common method is to make two lists on a piece of paper."
+          },
+          {
+            "id": 45,
+            "key": "v",
+            "text_uz": "o'zini yomon tutmoq",
+            "text_en": "misbehave",
+            "description": "Parents can be very embarrassed if their children misbehave in public."
+          },
+          {
+            "id": 46,
+            "key": "v",
+            "text_uz": "noto'g'ri baholash",
+            "text_en": "misjudge",
+            "description": "Once I completely misjudged the dress code when I was invited to a family meal."
+          },
+          {
+            "id": 47,
+            "key": "v",
+            "text_uz": "noto'g'ri tushunish",
+            "text_en": "misunderstand",
+            "description": "If you move to a very different culture, people may easily misunderstand your behaviour."
+          },
+          {
+            "id": 48,
+            "key": "n",
+            "text_uz": "qo'shni",
+            "text_en": "neighbour",
+            "description": "Danes use their extra leisure time to do voluntary work, helping their neighbours."
+          },
+          {
+            "id": 49,
+            "key": "v",
+            "text_uz": "ortiqcha sarf qilish",
+            "text_en": "overspend",
+            "description": "I must be careful I don't overspend this month."
+          },
+          {
+            "id": 50,
+            "key": "n",
+            "text_uz": "jismoniy faoliyat",
+            "text_en": "physical activity",
+            "description": "You'll be healthier if you have plenty of physical activity."
+          },
+          {
+            "id": 51,
+            "key": "n",
+            "text_uz": "kambag'allik ",
+            "text_en": "poverty",
+            "description": "Denmark doesn't have much poverty."
+          },
+          {
+            "id": 52,
+            "key": "n",
+            "text_uz": "bolalar aravachasi",
+            "text_en": "pram",
+            "description": "Look outside any café and you're likely to see lots of babies sleeping outside in prams."
+          },
+          {
+            "id": 53,
+            "key": "n",
+            "text_uz": "jamoat transporti tizimi",
+            "text_en": "public transport system",
+            "description": "If there was a cheap and reliable public transport system, people would use their cars less."
+          },
+          {
+            "id": 54,
+            "key": "adv",
+            "text_uz": "kamdan-kam hollarda ",
+            "text_en": "rarely",
+            "description": "Where I come from, we rarely do that."
+          },
+          {
+            "id": 55,
+            "key": "v",
+            "text_uz": "qayta paydo bo'lmoq",
+            "text_en": "reappear",
+            "description": "The stars stop coming out at night and don't reappear until August."
+          },
+          {
+            "id": 56,
+            "key": "adj",
+            "text_uz": "oqilona, asosli",
+            "text_en": "reasonable",
+            "description": "People tend to have more job satisfaction if they work reasonable hours."
+          },
+          {
+            "id": 57,
+            "key": "v",
+            "text_uz": "qayta bezash",
+            "text_en": "redecorate",
+            "description": "When we moved into the new apartment, we completely redecorated it."
+          },
+          {
+            "id": 58,
+            "key": "adj",
+            "text_uz": "qayta tiklanuvchi",
+            "text_en": "renewable",
+            "description": "Renewable energy comes from sources that will always exist."
+          },
+          {
+            "id": 59,
+            "key": "v",
+            "text_uz": "qayta rejalashtirish",
+            "text_en": "reschedule",
+            "description": "The flight has to be rescheduled due to the bad weather."
+          },
+          {
+            "id": 60,
+            "key": "v",
+            "text_uz": "qutqarmoq",
+            "text_en": "rescue",
+            "description": "He rushed over there immediately and started to rescue people."
+          },
+          {
+            "id": 61,
+            "key": "v",
+            "text_uz": "tavakkal qilmoq",
+            "text_en": "risk",
+            "description": "If you saw a crash, would you risk your life to help?"
+          },
+          {
+            "id": 62,
+            "key": "adj",
+            "text_uz": "tavakkal, xavfli",
+            "text_en": "risky",
+            "description": "I wouldn't do a job if it was risky or dangerous."
+          },
+          {
+            "id": 63,
+            "key": "adj",
+            "text_uz": "xudbin",
+            "text_en": "selfish",
+            "description": "They have created an online course to train people to become less selfish and more heroic."
+          },
+          {
+            "id": 64,
+            "key": "adj",
+            "text_uz": "ta'sirli",
+            "text_en": "sensible",
+            "description": "She's a very sensible person."
+          },
+          {
+            "id": 65,
+            "key": "n",
+            "text_uz": "jamiyat",
+            "text_en": "society",
+            "description": "Denmark is also a very equal society."
+          },
+          {
+            "id": 66,
+            "key": "adv",
+            "text_uz": "ajoyib tarzda",
+            "text_en": "spectacularly",
+            "description": "I must say, it did look spectacularly beautiful."
+          },
+          {
+            "id": 67,
+            "key": "phrv",
+            "text_uz": "tunni uxlamasdan o'tkazmoq",
+            "text_en": "stay up",
+            "description": "It was really exciting to stay up with my friends, having meals outside in the middle of the night."
+          },
+          {
+            "id": 68,
+            "key": "v",
+            "text_uz": "aziyat chekmoq",
+            "text_en": "suffer",
+            "description": "Some people who move to another country suffer from culture shock."
+          },
+          {
+            "id": 69,
+            "key": "n",
+            "text_uz": "super yulduz",
+            "text_en": "superstar",
+            "description": "Sometimes a superstar makes a smaller country more famous."
+          },
+          {
+            "id": 70,
+            "key": "v",
+            "text_uz": "chala pishirmoq",
+            "text_en": "undercook",
+            "description": "I sent the steak back because it was undercooked - in fact, it was almost raw."
+          },
+          {
+            "id": 71,
+            "key": "v",
+            "text_uz": "oddiy kiyingan",
+            "text_en": "underdressed",
+            "description": "I felt extremely undressed!"
+          },
+          {
+            "id": 72,
+            "key": "v",
+            "text_uz": "ko'ngilli bo'lib chiqish",
+            "text_en": "volunteer",
+            "description": "One third of the heroes in the study had also volunteered up to 59 hours a week."
+          },
+          {
+            "id": 73,
+            "key": "n",
+            "text_uz": "ko'ngilli",
+            "text_en": "volunteer",
+            "description": "Having been lucky enough to survive a disaster yourself makes you three times more likely to be a hero and a volunteer."
+          }
+        ],
+        unit9: [
+          {
+            "id": 1,
+            "key": "adj",
+            "text_uz": "mavhum",
+            "text_en": "abstract",
+            "description": "The abstract painting is very modern."
+          },
+          {
+            "id": 2,
+            "key": "n",
+            "text_uz": "orqa fon",
+            "text_en": "background",
+            "description": "The background of the picture is really detailed."
+          },
+          {
+            "id": 3,
+            "key": "n",
+            "text_uz": "chiroy, go'zallik",
+            "text_en": "beauty",
+            "description": "Although the campaign is selling beauty, I think the advert is better than adverts that make women feel bad about themselves."
+          },
+          {
+            "id": 4,
+            "key": "n",
+            "text_uz": "qushlarni kuzatish",
+            "text_en": "bird-watching",
+            "description": "Jon took up bird-watching in his teens."
+          },
+          {
+            "id": 5,
+            "key": "n",
+            "text_uz": "tomchi, kichik shar",
+            "text_en": "blob",
+            "description": "We try to find meaning and patterns in chance lines, blobs and colours."
+          },
+          {
+            "id": 6,
+            "key": "adj",
+            "text_uz": "mallasoch",
+            "text_en": "blond(e)",
+            "description": "She's got short blonde hair."
+          },
+          {
+            "id": 7,
+            "key": "adj",
+            "text_uz": "soqoli silliq olingan",
+            "text_en": "clean-shaven",
+            "description": "He's clean-shaven."
+          },
+          {
+            "id": 8,
+            "key": "adj",
+            "text_uz": "yopiq, sovuq (inson yuzini tasvirlashda)",
+            "text_en": "closed off",
+            "description": "One woman described her face as 'a lot more closed off, and fatter, sadder too'."
+          },
+          {
+            "id": 9,
+            "key": "phrv",
+            "text_uz": "kelmoq",
+            "text_en": "come across",
+            "description": "I came across a website called 'Houses that look like faces'. Scientists have come up with various ideas to explain it."
+          },
+          {
+            "id": 10,
+            "key": "adj",
+            "text_uz": "jingalak",
+            "text_en": "curly",
+            "description": "She's got short curly hair."
+          },
+          {
+            "id": 11,
+            "key": "n",
+            "text_uz": "parda",
+            "text_en": "curtain",
+            "description": "He was hidden behind a curtain."
+          },
+          {
+            "id": 12,
+            "key": "n",
+            "text_uz": "egri, egilgan",
+            "text_en": "curve",
+            "description": "Look at the curves of the lines in the painting."
+          },
+          {
+            "id": 13,
+            "key": "n",
+            "text_uz": "ma'lumotlar bazasi",
+            "text_en": "database",
+            "description": "A German design studio is making a database of such faces."
+          },
+          {
+            "id": 14,
+            "key": "n",
+            "text_uz": "tavsif",
+            "text_en": "description",
+            "description": "The sketches were done from the women's descriptions of themselves."
+          },
+          {
+            "id": 15,
+            "key": "adj",
+            "text_uz": "batafsil",
+            "text_en": "detailed",
+            "description": "I love the painting because it's so detailed."
+          },
+          {
+            "id": 16,
+            "key": "v",
+            "text_uz": "bag'ishlamoq",
+            "text_en": "devote",
+            "description": "There are websites devoted to all kinds of objects."
+          },
+          {
+            "id": 17,
+            "key": "n",
+            "text_uz": "curtain",
+            "text_en": "double chin",
+            "description": "He's got a bit of a double chin."
+          },
+          {
+            "id": 18,
+            "key": "v",
+            "text_uz": "bo'yamoq",
+            "text_en": "dye",
+            "description": "Her hair might be dyed."
+          },
+          {
+            "id": 19,
+            "key": "n",
+            "text_uz": "hissiyot",
+            "text_en": "emotion",
+            "description": "The houses seemed to express emotions as well."
+          },
+          {
+            "id": 20,
+            "key": "v",
+            "text_uz": "ifodalamoq",
+            "text_en": "express",
+            "description": "Not only did the houses look like faces, but they seemed to express emotions as well."
+          },
+          {
+            "id": 21,
+            "key": "n",
+            "text_uz": "qosh",
+            "text_en": "eyebrow",
+            "description": "He's got quite thick eyebrows."
+          },
+          {
+            "id": 22,
+            "key": "n",
+            "text_uz": "kiprik",
+            "text_en": "eyelash",
+            "description": "She's got long eyelashes."
+          },
+          {
+            "id": 23,
+            "key": "n",
+            "text_uz": "old ko'rinish",
+            "text_en": "foreground",
+            "description": "The woman is in the foreground of the picture."
+          },
+          {
+            "id": 24,
+            "key": "phr",
+            "text_uz": "kal bo'lish",
+            "text_en": "go bald",
+            "description": "He's going bald."
+          },
+          {
+            "id": 25,
+            "key": "adj",
+            "text_uz": "kulrang",
+            "text_en": "grey",
+            "description": "He's got grey hair."
+          },
+          {
+            "id": 26,
+            "key": "adj",
+            "text_uz": "tarixiy",
+            "text_en": "historical",
+            "description": "It must be either an old painting or a painting of a historical scene."
+          },
+          {
+            "id": 27,
+            "key": "adj",
+            "text_uz": "ochig'i, rosti",
+            "text_en": "honestly",
+            "description": "They were asked to describe their own faces, honestly, to a complete stranger."
+          },
+          {
+            "id": 28,
+            "key": "v",
+            "text_uz": "ov qilmoq",
+            "text_en": "hunt",
+            "description": "I think they might be going out to hunt."
+          },
+          {
+            "id": 29,
+            "key": "adj",
+            "text_uz": "g'azablangan",
+            "text_en": "irritated",
+            "description": "Some looked a bit irritated."
+          },
+          {
+            "id": 30,
+            "key": "phr",
+            "text_uz": "intizorlik bilan kutmoq",
+            "text_en": "look forward to",
+            "description": "I'm looking forward to the party."
+          },
+          {
+            "id": 31,
+            "key": "phrv",
+            "text_uz": "(kitobdan) qidirmoq",
+            "text_en": "make out",
+            "description": "We can't help making out faces where there aren't any."
+          },
+          {
+            "id": 32,
+            "key": "adj",
+            "text_uz": "mo'ylov",
+            "text_en": "moustache",
+            "description": "He's got a bit of a moustache."
+          },
+          {
+            "id": 33,
+            "key": "adj",
+            "text_uz": "sirli",
+            "text_en": "mysterious",
+            "description": "It's really mysterious."
+          },
+          {
+            "id": 34,
+            "key": "adj",
+            "text_uz": "ortiqcha vaznli, semiz",
+            "text_en": "overweight",
+            "description": "It can't be a modern painting; it looks too old-fashioned. He's possibly a bit overweight."
+          },
+          {
+            "id": 35,
+            "key": "n",
+            "text_uz": "g'ayrioddiy hodisa",
+            "text_en": "phenomenon",
+            "description": "I did some research and found out that this phenomenon is called pareidolia."
+          },
+          {
+            "id": 36,
+            "key": "n",
+            "text_uz": "surat",
+            "text_en": "portrait",
+            "description": "It can't be a portrait of a mandrill."
+          },
+          {
+            "id": 37,
+            "key": "n",
+            "text_uz": "surat proyektor",
+            "text_en": "projector",
+            "description": "We had to put off the meeting because the projector broke down."
+          },
+          {
+            "id": 38,
+            "key": "phrv",
+            "text_uz": "osmoq, qo'ymoq",
+            "text_en": "put up",
+            "description": "Images have been put up on a wall."
+          },
+          {
+            "id": 39,
+            "key": "v",
+            "text_uz": "aks etmoq",
+            "text_en": "reflect",
+            "description": "I think it must be a mirror. It's reflecting the sea."
+          },
+          {
+            "id": 40,
+            "key": "n",
+            "text_uz": "aks",
+            "text_en": "reflection",
+            "description": "It must be a mirror; I can see the reflection of her face."
+          },
+          {
+            "id": 41,
+            "key": "v",
+            "text_uz": "tuyilmoq",
+            "text_en": "seem",
+            "description": "It seems to be moving."
+          },
+          {
+            "id": 42,
+            "key": "adv",
+            "text_uz": "aftidan, chamasi",
+            "text_en": "seemingly",
+            "description": "She was seemingly calm when she took her driving test."
+          },
+          {
+            "id": 43,
+            "key": "adj",
+            "text_uz": "o'z o'zini ta'riflagan",
+            "text_en": "self-described",
+            "description": "Looking at her self-described portrait, one woman described her face as 'a lot more closed off and fatter, sadder, too'."
+          },
+          {
+            "id": 44,
+            "key": "adj",
+            "text_uz": "yelka uzunligida",
+            "text_en": "shoulder-length",
+            "description": "His hair is shoulder-length and dark brown."
+          },
+          {
+            "id": 45,
+            "key": "phr",
+            "text_uz": "yonma-yon",
+            "text_en": "side by side",
+            "description": "He put the two sketches side by side."
+          },
+          {
+            "id": 46,
+            "key": "v",
+            "text_uz": "konki uchmoq",
+            "text_en": "skate",
+            "description": "The river must be frozen over, because they're skating on it."
+          },
+          {
+            "id": 47,
+            "key": "n",
+            "text_uz": "chizg'i, andoza hushbichim, ingichka",
+            "text_en": "sketch",
+            "description": "They had sketches done of themselves."
+          },
+          {
+            "id": 48,
+            "key": "adj",
+            "text_uz": "nozik",
+            "text_en": "slim",
+            "description": "I think she's quite slim."
+          },
+          {
+            "id": 49,
+            "key": "adj",
+            "text_uz": "tikanli, qirrali",
+            "text_en": "spiky",
+            "description": "He's got spiky hair."
+          },
+          {
+            "id": 50,
+            "key": "n",
+            "text_uz": "notanish",
+            "text_en": "stranger",
+            "description": "They were later asked to go into a room and describe their own faces, honestly, to a complete stranger."
+          },
+          {
+            "id": 51,
+            "key": "n",
+            "text_uz": "biroz sogolli (soqol olingandan keyin biroz o'sgani)",
+            "text_en": "stubble",
+            "description": "He's got stubble."
+          },
+          {
+            "id": 52,
+            "key": "v",
+            "text_uz": "mos kelmoq",
+            "text_en": "suit",
+            "description": "We need to dress to suit where we work."
+          },
+          {
+            "id": 53,
+            "key": "n",
+            "text_uz": "jo'mrak",
+            "text_en": "tap",
+            "description": "Taps, teapots, tape recorders - it seems as if we can't help making out faces where there aren't any."
+          },
+          {
+            "id": 54,
+            "key": "n",
+            "text_uz": "magnitofon",
+            "text_en": "tape recorder",
+            "description": "As well as taps and teapots, there are even tape recorders that resemble faces."
+          },
+          {
+            "id": 55,
+            "key": "n",
+            "text_uz": "choynak",
+            "text_en": "teapot",
+            "description": "This teapot resembles a face."
+          },
+          {
+            "id": 56,
+            "key": "v",
+            "text_uz": "kiymoq",
+            "text_en": "wear",
+            "description": "Rules about what we wear have changed so much in the last few years."
+          },
+          {
+            "id": 57,
+            "key": "adj",
+            "text_uz": "baquvvat",
+            "text_en": "well-built",
+            "description": "He's quite well-built."
+          }
+        ],
+        unit10: [
+          {
+            "id": 1,
+            "key": "n",
+            "text_uz": "serob, ko'p",
+            "text_en": "abundance",
+            "description": "In the past, most visitors explored the city's abundance of historic buildings."
+          },
+          {
+            "id": 2,
+            "key": "adv",
+            "text_uz": "akademik jihatdan",
+            "text_en": "academically",
+            "description": "There are plenty of children who don't do well academically, who are brilliant at sports."
+          },
+          {
+            "id": 3,
+            "key": "n",
+            "text_uz": "atlet, sportchi",
+            "text_en": "athlete",
+            "description": "Is the noise of their supporters always a positive thing for players or athletes? Not necessarily."
+          },
+          {
+            "id": 4,
+            "key": "n",
+            "text_uz": "diqqatga sazovor joy",
+            "text_en": "attraction",
+            "description": "It is one of the most important attractions in the city."
+          },
+          {
+            "id": 5,
+            "key": "v",
+            "text_uz": "qo'llab quvvatlamoq",
+            "text_en": "back",
+            "description": "They are going to back the project and become an investor."
+          },
+          {
+            "id": 6,
+            "key": "n",
+            "text_uz": "bank qarzi",
+            "text_en": "bank loan",
+            "description": "We had to take out a bank loan to pay for it."
+          },
+          {
+            "id": 7,
+            "key": "n",
+            "text_uz": "krediti butik mehmonxona",
+            "text_en": "boutique hotel",
+            "description": "The old buildings were turned into boutique hotels."
+          },
+          {
+            "id": 8,
+            "key": "phr",
+            "text_uz": "record o'rnatmoq",
+            "text_en": "break a record",
+            "description": "It is also hoped that the new plans will help Britain to break more records in future Olympic Games."
+          },
+          {
+            "id": 9,
+            "key": "n",
+            "text_uz": "qo'llab quvvatlash gurul",
+            "text_en": "cheerleading",
+            "description": "Cheerleading is very popular in American schools."
+          },
+          {
+            "id": 10,
+            "key": "v",
+            "text_uz": "bellashmoq",
+            "text_en": "compete",
+            "description": "Winning teams will compete in 60 county finals before going on to a national final."
+          },
+          {
+            "id": 11,
+            "key": "adj",
+            "text_uz": "raqobatbardosh",
+            "text_en": "competitive",
+            "description": "Schools have been avoiding competitive sports."
+          },
+          {
+            "id": 12,
+            "key": "n",
+            "text_uz": "guruh bo'lib biror biznesga sarmoya kiritmoq",
+            "text_en": "crowd-funding",
+            "description": "Together with Yancey Strickler and Charles Adler, he started up Kickstarter, a crowd-funding website."
+          },
+          {
+            "id": 13,
+            "key": "n",
+            "text_uz": "raqs",
+            "text_en": "dancing",
+            "description": "As well as yoga and trampolining, dancing is one of the activities offered at our school."
+          },
+          {
+            "id": 14,
+            "key": "n",
+            "text_uz": "10 yillik",
+            "text_en": "decade",
+            "description": "In the past decades, development has dramatically changed many parts of the city."
+          },
+          {
+            "id": 15,
+            "key": "n",
+            "text_uz": "manzil, belgilangan joy",
+            "text_en": "destination",
+            "description": "In 2014 the city was voted the world's top destination in Trip Advisor's Travellers Choice Awards."
+          },
+          {
+            "id": 16,
+            "key": "n",
+            "text_uz": "tuman",
+            "text_en": "district",
+            "description": "It is starting to resemble Manhattan in some districts where modern skyscrapers are rapidly being built."
+          },
+          {
+            "id": 17,
+            "key": "adv",
+            "text_uz": "keskin",
+            "text_en": "dramatically",
+            "description": "Development has dramatically changed many parts of the city."
+          },
+          {
+            "id": 18,
+            "key": "v",
+            "text_uz": "ustuvorlik qilish",
+            "text_en": "dominate",
+            "description": "The skyline is dominated by skyscrapers."
+          },
+          {
+            "id": 19,
+            "key": "n",
+            "text_uz": "tevarak atrofda baland ko'tarilib turmoq, ustuvorlik qilish quloq tutqichi, quloqni to'suvchi tiqin",
+            "text_en": "earplug",
+            "description": "There are two holes which are located near your ears so you can put in ear-plugs."
+          },
+          {
+            "id": 20,
+            "key": "n",
+            "text_uz": "tadbirkor",
+            "text_en": "entrepreneur",
+            "description": "For entrepreneurs who find themselves short of cash, it's a great way to get funding."
+          },
+          {
+            "id": 21,
+            "key": "n",
+            "text_uz": "tadbir, xodisa",
+            "text_en": "event",
+            "description": "Why do we go to big events such as music festivals?"
+          },
+          {
+            "id": 22,
+            "key": "adj",
+            "text_uz": "zamonaviy",
+            "text_en": "fashionable",
+            "description": "Istanbul is becoming just as well known for its modern galleries, designer shops and fashionable restaurants."
+          },
+          {
+            "id": 23,
+            "key": "n",
+            "text_uz": "soha",
+            "text_en": "field",
+            "description": "We've had lots of emails from people in all different kinds of fields saying that they have found it useful."
+          },
+          {
+            "id": 24,
+            "key": "n",
+            "text_uz": "raqam, son, shakl",
+            "text_en": "figure",
+            "description": "Recent figures show that more and more children are overweight."
+          },
+          {
+            "id": 25,
+            "key": "n",
+            "text_uz": "kafolat",
+            "text_en": "guarantee",
+            "description": "They won't give any guarantee that the new business will make a profit."
+          },
+          {
+            "id": 26,
+            "key": "phr",
+            "text_uz": "bo'lmoq",
+            "text_en": "have a clue (about) ",
+            "description": "I haven't got a clue about racing."
+          },
+          {
+            "id": 27,
+            "key": "phr",
+            "text_uz": "tuyulmoq",
+            "text_en": "have a feeling",
+            "description": "I have a feeling this holiday will be a mistake."
+          },
+          {
+            "id": 28,
+            "key": "phr",
+            "text_uz": "sinab ko'rmoq, urinib ko'rmoq",
+            "text_en": "have a go",
+            "description": "It's a bit difficult at first, but just have a go."
+          },
+          {
+            "id": 29,
+            "key": "n",
+            "text_uz": "mahalliy stadion",
+            "text_en": "home stadium",
+            "description": "Sporting teams always prefer to play in their home stadium."
+          },
+          {
+            "id": 30,
+            "key": "n",
+            "text_uz": "mahalliy jamoa",
+            "text_en": "home team",
+            "description": "The home team really does have an advantage."
+          },
+          {
+            "id": 31,
+            "key": "n",
+            "text_uz": "sarmoya",
+            "text_en": "investment",
+            "description": "There's always the possibility that their investment will increase in value."
+          },
+          {
+            "id": 32,
+            "key": "n",
+            "text_uz": "sarmoyador",
+            "text_en": "investor",
+            "description": "Anyone who wants to back their projects can become an investor."
+          },
+          {
+            "id": 33,
+            "key": "adj",
+            "text_uz": "hashamatli, muhtasham",
+            "text_en": "magnificent",
+            "description": "Istanbul was traditionally famous for its magnificent ancient sights."
+          },
+          {
+            "id": 34,
+            "key": "v",
+            "text_uz": "ishlab chiqarmoq",
+            "text_en": "manufacture",
+            "description": "More are currently being manufactured."
+          },
+          {
+            "id": 35,
+            "key": "adj",
+            "text_uz": "ko'rishga arzigulik",
+            "text_en": "must-see",
+            "description": "Compared to 20 years ago, the city's list of must-see attractions has also changed."
+          },
+          {
+            "id": 36,
+            "key": "n",
+            "text_uz": "tungi klub",
+            "text_en": "nightclub",
+            "description": "There are lots of nightclubs in the city."
+          },
+          {
+            "id": 37,
+            "key": "adj",
+            "text_uz": "noraqobatbardosh",
+            "text_en": "non-competitive",
+            "description": "Yoga, dancing and cheerleading are all examples of non-competitive sports."
+          },
+          {
+            "id": 38,
+            "key": "adj",
+            "text_uz": "ochiq havodagi",
+            "text_en": "open-air",
+            "description": "It is the biggest open-air shopping centre in the UK."
+          },
+          {
+            "id": 39,
+            "key": "adj",
+            "text_uz": "to'ldirilgan",
+            "text_en": "padded",
+            "description": "The 'Ostrich Pillow' is a kind of padded hat."
+          },
+          {
+            "id": 40,
+            "key": "v",
+            "text_uz": "garov",
+            "text_en": "pledge",
+            "description": "People have pledged $195,094."
+          },
+          {
+            "id": 41,
+            "key": "n",
+            "text_uz": "pul kiritmoq mashhurlik, shuhrat",
+            "text_en": "popularity",
+            "description": "It is growing in popularity in countries like the United States, Switzerland and Canada."
+          },
+          {
+            "id": 42,
+            "key": "v",
+            "text_uz": "taqdim qilmoq",
+            "text_en": "present",
+            "description": "First of all, you need to present your idea to the bank."
+          },
+          {
+            "id": 43,
+            "key": "adj",
+            "text_uz": "foyda",
+            "text_en": "profit",
+            "description": "How much profit did they make on the business?"
+          },
+          {
+            "id": 44,
+            "key": "v",
+            "text_uz": "mavhum",
+            "text_en": "pull (over)",
+            "description": "It's a padded hat that people can pull over their heads to take а nар."
+          },
+          {
+            "id": 45,
+            "key": "v",
+            "text_uz": "to'plamoq, yig'moq",
+            "text_en": "raise",
+            "description": "He couldn't raise the money he needed."
+          },
+          {
+            "id": 46,
+            "key": "n",
+            "text_uz": "hakam",
+            "text_en": "referee",
+            "description": "The biggest impact of the crowd is not on the players, but on the referees."
+          },
+          {
+            "id": 47,
+            "key": "v",
+            "text_uz": "yangilash",
+            "text_en": "renovate",
+            "description": "The rundown buildings in many areas were renovated."
+          },
+          {
+            "id": 48,
+            "key": "v",
+            "text_uz": "o'xshamoq",
+            "text_en": "resemble",
+            "description": "There are websites devoted to all kinds of objects that resemble faces.."
+          },
+          {
+            "id": 49,
+            "key": "n",
+            "text_uz": "g'alayon, isyon",
+            "text_en": "riot",
+            "description": "TThe audience got out of control and the concert turned into a riot."
+          },
+          {
+            "id": 50,
+            "key": "n",
+            "text_uz": "regbi",
+            "text_en": "rugby",
+            "description": "Schools will play against each other in an Olympic-style event, with sports such as football, athletics, rugby, swimming, tennis and cycling."
+          },
+          {
+            "id": 51,
+            "key": "adj",
+            "text_uz": "eski, haroba",
+            "text_en": "run-down",
+            "description": "The run-down buildings in many areas were renovated and turned into boutique hotels and trendy cafés."
+          },
+          {
+            "id": 52,
+            "key": "n",
+            "text_uz": "hamiyat, g'urur",
+            "text_en": "self-esteem",
+            "description": "We have to realize that taking part in competitive sport is not bad for people's self-esteem."
+          },
+          {
+            "id": 53,
+            "key": "n",
+            "text_uz": "xizmat",
+            "text_en": "service",
+            "description": "Please give me some details about the product or service you are offering."
+          },
+          {
+            "id": 54,
+            "key": "phr",
+            "text_uz": "nagd pul yetishmovchiligi",
+            "text_en": "short of cash",
+            "description": "For entrepreneurs who find themselves short of cash, it's a great way to get funding."
+          },
+          {
+            "id": 55,
+            "key": "phrv",
+            "text_uz": "boshlamoq, o'rnatmoq",
+            "text_en": "set up",
+            "description": "Anyone who wants to set up a business can present their idea on the website."
+          },
+          {
+            "id": 56,
+            "key": "n",
+            "text_uz": "osmon chizig'i",
+            "text_en": "skyline",
+            "description": "The skyline was dominated by historic buildings and monuments."
+          },
+          {
+            "id": 57,
+            "key": "adj",
+            "text_uz": "murakkab, hashamdor",
+            "text_en": "sophisticated",
+            "description": "The neighbourhood is now home to sophisticated nightclubs."
+          },
+          {
+            "id": 58,
+            "key": "adj",
+            "text_uz": "eng songgi, o'ta zamonaviy",
+            "text_en": "state-of-the-art",
+            "description": "The warehouse is now a state-of-the-art gallery."
+          },
+          {
+            "id": 59,
+            "key": "phr",
+            "text_uz": "qaror qabul qilmoq",
+            "text_en": "take a decision",
+            "description": "It's very important to take the right decision."
+          },
+          {
+            "id": 60,
+            "key": "phr",
+            "text_uz": "tavakkal qilmoq",
+            "text_en": "take a risk",
+            "description": "Don't take a risk - it's not worth it."
+          },
+          {
+            "id": 61,
+            "key": "phr",
+            "text_uz": "e'tiborga olmaslik",
+            "text_en": "take no notice of (someone/something)",
+            "description": "Take no notice of him - he's being silly."
+          },
+          {
+            "id": 62,
+            "key": "phr",
+            "text_uz": "gapiga ishonmoq",
+            "text_en": "take (someone's) word for it",
+            "description": "I'll take your word for it, since I don't know much about it!"
+          },
+          {
+            "id": 63,
+            "key": "phr",
+            "text_uz": "biror nimani jiddiy qabul qilmoq",
+            "text_en": "take (something/someone) seriously",
+            "description": "I just can't take Paul seriously."
+          },
+          {
+            "id": 64,
+            "key": "phr",
+            "text_uz": "vaziyatdan foydalanmoq",
+            "text_en": "take advantage of",
+            "description": "We've decided to take advantage of the warm weather."
+          },
+          {
+            "id": 65,
+            "key": "phr",
+            "text_uz": "g'amxo'rlik qilmoq",
+            "text_en": "take care of",
+            "description": "She's the nurse who takes care of my grandmother."
+          },
+          {
+            "id": 66,
+            "key": "phrv",
+            "text_uz": "chiqarib olmoq",
+            "text_en": "take out",
+            "description": "You will need to take out a bank loan to pay for it."
+          },
+          {
+            "id": 67,
+            "key": "phr",
+            "text_uz": "galma-gal",
+            "text_en": "take turns",
+            "description": "Sometimes we'll buy street food, and the rest of the time we're planning to take turns to cook in the evenings."
+          },
+          {
+            "id": 68,
+            "key": "adj",
+            "text_uz": "hayajonli",
+            "text_en": "thrilling",
+            "description": "It is a thrilling mixture of soccer, volleyball and gymnastics."
+          },
+          {
+            "id": 69,
+            "key": "n",
+            "text_uz": "musobaqa",
+            "text_en": "tournament",
+            "description": "The government has announced that highly competitive sports days and tournaments are to be re-introduced at schools."
+          },
+          {
+            "id": 70,
+            "key": "n",
+            "text_uz": "batutda sakrash",
+            "text_en": "trampolining",
+            "description": "Our school avoids competitive sports and has introduced activities such as dancing and trampolining."
+          },
+          {
+            "id": 71,
+            "key": "adj",
+            "text_uz": "urfda, zamonaviy",
+            "text_en": "trendy",
+            "description": "Some of the buildings are now trendy cafés."
+          },
+          {
+            "id": 72,
+            "key": "phr",
+            "text_uz": "eshitilmagan",
+            "text_en": "unheard of",
+            "description": "Almost unheard of in Europe, sepak takraw is an extremely popular sport throughout East Asia."
+          },
+          {
+            "id": 73,
+            "key": "adj",
+            "text_uz": "haqiqatdan yiroq",
+            "text_en": "unrealistic",
+            "description": "It's just unrealistic for children to be told that everyone can win."
+          },
+          {
+            "id": 74,
+            "key": "adj",
+            "text_uz": "jonli, zavqli",
+            "text_en": "vibrant",
+            "description": "Istanbul is now one of Europe's most popular and vibrant cities."
+          }
+        ]
       },
       upperIntermediate: {
         unit1: [],
