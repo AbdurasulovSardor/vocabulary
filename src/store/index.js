@@ -18435,21 +18435,21 @@ export default createStore({
           {
             "id": 37,
             "key": "n",
-            "text_uz": "sog'liqni saqlash",
+            "text_uz": "qahramon",
             "text_en": "hero",
             "description": "The more educated you are, the more likely you are to be a hero."
           },
           {
             "id": 38,
             "key": "adj",
-            "text_uz": "qahramon",
+            "text_uz": "mardlarcha, qahramonlarcha",
             "text_en": "heroic",
             "description": "One in five people has done something heroic."
           },
           {
             "id": 39,
             "key": "adv",
-            "text_uz": "qahramonona",
+            "text_uz": "qahramonona, qahramonlarcha",
             "text_en": "heroically",
             "description": "Researchers at Berkeley University have spent the last five years studying what exactly makes people act heroically."
           },
@@ -19153,7 +19153,7 @@ export default createStore({
           {
             "id": 9,
             "key": "n",
-            "text_uz": "qo'llab quvvatlash gurul",
+            "text_uz": "qo'llab quvvatlash guruhi",
             "text_en": "cheerleading",
             "description": "Cheerleading is very popular in American schools."
           },
