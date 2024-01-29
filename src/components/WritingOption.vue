@@ -6,12 +6,12 @@
     </p>
     <p class="writing__question-text">
       {{ props.question.text_uz }}
-      <span>(v)</span>
+      <span>(props.question.key)</span>
     </p>
   </div>
 
   <div class="writing__typing">
-    <label class="writing__label" for="typing">
+    <div class="writing__label">
       <p>Type your answer</p>
       <input
         v-model="answer"
@@ -21,9 +21,15 @@
         type="text"
         placeholder="Typing"
         autocomplete="off"
+        @keyup.enter="nextQuestion"
       />
-    </label>
-    <button class="writing__button" @click="nextQuestion" :disabled="!answer.length">
+    </div>
+    <button
+      class="writing__button"
+      @click="nextQuestion"
+      :disabled="!answer.length"
+      @keyup.tab="false"
+    >
       Next
     </button>
   </div>

@@ -50,7 +50,7 @@ export default createStore({
           {
             id: 7,
             key: "n",
-            text_uz: "is yuzasidan",
+            text_uz: "ish yuzasidan",
             text_en: "business",
             description: "I am here on business",
           },
@@ -2489,7 +2489,7 @@ export default createStore({
           {
             id: 73,
             key: "adj",
-            text_uz: "",
+            text_uz: "keyingisi",
             text_en: "next",
             description: "What time is the next metro?",
           },
@@ -4452,8 +4452,8 @@ export default createStore({
           {
             id: 20,
             key: "v",
-            text_uz: "...orqali bormoq",
-            text_en: "get",
+            text_uz: "avtobusga chiqmoq",
+            text_en: "get a bus",
             description: "Why did you get the bus today?",
           },
           {
@@ -4543,15 +4543,15 @@ export default createStore({
           {
             id: 33,
             key: "n",
-            text_uz: "tanishmoq, uchratmoq",
+            text_uz: "go'sht",
             text_en: "meat",
             description: "We need some meat for the barbecue.",
           },
           {
             id: 34,
             key: "n",
-            text_uz: "keyingi oy, kelasi oy",
-            text_en: "meat",
+            text_uz: "uchrashmoq",
+            text_en: "meet",
             description: "I met my husband, John, when l was five years old!",
           },
           {
@@ -4630,7 +4630,7 @@ export default createStore({
             id: 1,
             key: "phr",
             text_uz: "bir poyali",
-            text_en: "a up of",
+            text_en: "a cup of",
             description: "I`d like a cup of tea, please.",
           },
           {
@@ -4881,7 +4881,7 @@ export default createStore({
           {
             id: 37,
             key: "n",
-            text_uz: "buyurtma betmoq",
+            text_uz: "buyurtma bermoq",
             text_en: "order",
             description: "Would you like to order?",
           },
@@ -4902,7 +4902,7 @@ export default createStore({
           {
             id: 40,
             key: "n",
-            text_uz: "guruh",
+            text_uz: "guruch",
             text_en: "rice",
             description: "Japanese food has got a lot of rice in it.",
           },
@@ -4944,7 +4944,7 @@ export default createStore({
           {
             id: 46,
             key: "n",
-            text_uz: "atrof muhit",
+            text_uz: "shirin",
             text_en: "sweet",
             description: "I love sweet food, and l always order adessert.",
           },
