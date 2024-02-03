@@ -13108,7 +13108,7 @@ export default createStore({
           {
             id: 29,
             key: "adj",
-            text_uz: "atrof muhitga havfsizroq",
+            text_uz: "atrof muhitga havfsizligi",
             text_en: "greener",
             description: "Buses are greener than in the past",
           },
@@ -13390,9 +13390,9 @@ export default createStore({
           {
             id: 7,
             key: "n",
-            text_uz: "connection",
-            text_en: "aloqa",
-            description: "It's a really bad desicion",
+            text_uz: "aloqa",
+            text_en: "connection",
+            description: "It's a really bad connection. Could you repeat that, please?",
           },
           {
             id: 8,
@@ -13491,7 +13491,7 @@ export default createStore({
           {
             id: 21,
             key: "n",
-            text_uz: "tarih",
+            text_uz: "tarix",
             text_en: "history",
             description: "My favorite subject was history",
           },
