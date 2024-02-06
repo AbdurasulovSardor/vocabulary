@@ -13921,7 +13921,7 @@ export default createStore({
           {
             id: 22,
             key: "v",
-            text_uz: "... haq{ida orzu qilmoq",
+            text_uz: "... haqida orzu qilmoq",
             text_en: "dream of",
             description: "Do you ever dream of visiting New York?",
           },
@@ -14142,9 +14142,9 @@ export default createStore({
             id: 53,
             key: "adj",
             text_uz: "ahmoqona",
-            text_en: "r{idiculous",
+            text_en: "ridiculous",
             description:
-              "How r{idiculous! People will think you are unfriendly if you refuse a handshake.",
+              "How ridiculous! People will think you are unfriendly if you refuse a handshake.",
           },
           {
             id: 54,
