@@ -13597,7 +13597,7 @@ export default createStore({
             id: 36,
             key: "n",
             text_uz: "jismoniy tarbiya",
-            texta_en: "PE",
+            text_en: "PE",
             description: "I really enjoyed PE at school",
           },
           {
