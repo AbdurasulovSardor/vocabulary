@@ -13800,7 +13800,7 @@ export default createStore({
             id: 5,
             key: "v",
             text_uz: "ishonmoq",
-            text_en: "beieve in",
+            text_en: "believe in",
             description: "I don`t believe in the health benefits of taking exercise.",
           },
           {
