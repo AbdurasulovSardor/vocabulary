@@ -14267,7 +14267,7 @@ export default createStore({
             id: 2,
             key: "n",
             text_uz: "olma sharbati",
-            text_en: "apply juice",
+            text_en: "apple juice",
             description: "I drink apple juice for breakfast",
           },
           {
@@ -14315,7 +14315,7 @@ export default createStore({
           {
             id: 9,
             key: "n",
-            text_uz: "temir {idish (ichimliklar uchun)",
+            text_uz: "temir idish (ichimliklar uchun)",
             text_en: "can",
             description: "Can I have a can of lemonade, please?",
           },
@@ -14331,7 +14331,7 @@ export default createStore({
             key: "n",
             text_uz: "karton quti",
             text_en: "carton",
-            description: "There`s a cartoon ofapple juice in the fr{idge.",
+            description: "There`s a cartoon of apple juice in the fr{idge.",
           },
           {
             id: 12,
@@ -14692,7 +14692,7 @@ export default createStore({
           {
             id: 61,
             key: "n",
-            text_uz: "pom{idor",
+            text_uz: "pomidor",
             text_en: "tomato",
             description: "We need some tomatoes for the salad.",
           },
@@ -14714,7 +14714,7 @@ export default createStore({
           {
             id: 64,
             key: "n",
-            text_uz: "tyubik (siqma {idishcha)",
+            text_uz: "tyubik (siqma idishcha)",
             text_en: "tube",
             description: "D{id you pack a tube of toothpaste?",
           },
