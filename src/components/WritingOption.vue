@@ -6,7 +6,7 @@
     </p>
     <p class="writing__question-text">
       {{ props.question.text_uz }}
-      <span>(props.question.key)</span>
+      <span>({{ props.question.key }})</span>
     </p>
   </div>
 
