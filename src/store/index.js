@@ -11054,7 +11054,7 @@ export default createStore({
             id: 29,
             key: "phr",
             text_uz: "ish yuzasidan",
-            text_en: "on busines",
+            text_en: "on business",
             description: "There are so many people who come here on business.",
           },
           {
@@ -11173,7 +11173,7 @@ export default createStore({
           {
             id: 46,
             key: "n",
-            text_uz: "chiqit",
+            text_uz: "chiqindi",
             text_en: "rubbish",
             description: "There's a huge problem with rubbish in the city centre.",
           },
