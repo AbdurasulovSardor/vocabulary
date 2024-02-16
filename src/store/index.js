@@ -11855,8 +11855,8 @@ export default createStore({
           {
             id: 16,
             key: "v",
-            text_uz: "download",
-            text_en: "yuklab olmoq",
+            text_uz: "yuklab olmoq",
+            text_en: "download",
             description: "You can download this app for free.",
           },
           {
@@ -12097,7 +12097,7 @@ export default createStore({
             id: 52,
             key: "n",
             text_uz: "vegetarianlar uchun pazandalik kitobi",
-            text_en: "vegetarian cookbook",
+            text_en: "vegetarian cook book",
             description: "We're going to get a vegetarian cookbook to help us.",
           },
           {
