@@ -14700,7 +14700,7 @@ export default createStore({
             id: 62,
             key: "n",
             text_uz: "tish pastasi",
-            text_en: "tootpaste",
+            text_en: "toothpaste",
             description: "I need to buy a tube of tooothpaste",
           },
           {
