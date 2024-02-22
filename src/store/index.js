@@ -14835,7 +14835,7 @@ export default createStore({
           {
             id: 14,
             key: "adj",
-            text_uz: "eng oxirgi",
+            text_uz: "haddan tashqari",
             text_en: "extreme",
             description: "There has been an increase in extreme weather conditions.",
           },
@@ -14958,7 +14958,7 @@ export default createStore({
           {
             id: 31,
             key: "n",
-            text_uz: "yo'l ko'rsatkich",
+            text_uz: "muhim bosqich",
             text_en: "milestone",
             description: "There have been several media milestones.",
           },
@@ -15031,7 +15031,7 @@ export default createStore({
           {
             id: 41,
             key: "phr v",
-            text_uz: "boshlamoq",
+            text_uz: "asos solmoq",
             text_en: "set up",
             description: "They want to set up a business this year.",
           },
@@ -15053,7 +15053,7 @@ export default createStore({
           {
             id: 44,
             key: "n",
-            text_uz: "urmoq",
+            text_uz: "ish tashlash",
             text_en: "strike",
             description:
               "Because of the transport strike, there are no trains running today.",
