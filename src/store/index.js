@@ -15196,7 +15196,7 @@ export default createStore({
             id: 10,
             key: "n",
             text_uz: "aloqa",
-            text_en: "communicaton",
+            text_en: "communication",
             description: "The internet, and especially Skype, has improved communication with friends who live abroad",
           },
           {
@@ -15301,7 +15301,7 @@ export default createStore({
             id: 25,
             key: "n",
             text_uz: "hukumat",
-            text_en: "governemnt",
+            text_en: "government",
             description: "The government has announced the latest tax proposals",
           },
           {
@@ -15377,7 +15377,7 @@ export default createStore({
           {
             id: 36,
             key: "adv",
-            text_uz: "s`onggi paytlarda",
+            text_uz: "so'nggi paytlarda",
             text_en: "lately",
             description: "How many of your Facebook friends have you seen lately?",
           },
@@ -15476,7 +15476,7 @@ export default createStore({
             id: 50,
             key: "n pl",
             text_uz: "manbalar",
-            text_en: "resuources",
+            text_en: "resources",
             description: "People should bee encouraged not to consume more than their fair share of the world`s resources",
           },
           {
@@ -15539,7 +15539,7 @@ export default createStore({
             id: 59,
             key: "v",
             text_uz: "ommaviylashmoq",
-            text_en: "trand",
+            text_en: "trend",
             description: "What`s trending in social media?",
           },
           {
