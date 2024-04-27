@@ -18624,7 +18624,7 @@ export default createStore({
           {
             "id": 64,
             "key": "adj",
-            "text_uz": "ta'sirli",
+            "text_uz": "oqil",
             "text_en": "sensible",
             "description": "She's a very sensible person."
           },
