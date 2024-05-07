@@ -18808,7 +18808,7 @@ export default createStore({
           {
             "id": 17,
             "key": "n",
-            "text_uz": "curtain",
+            "text_uz": "qo'sh baqbaqa",
             "text_en": "double chin",
             "description": "He's got a bit of a double chin."
           },
@@ -18904,9 +18904,16 @@ export default createStore({
             "description": "I'm looking forward to the party."
           },
           {
+            "id": 58,
+            "key": "phr",
+            "text_uz": "(kitobda) qidirmoq",
+            "text_en": "look up",
+            "description": "We looked up the word in the dictionary."
+          },
+          {
             "id": 31,
             "key": "phrv",
-            "text_uz": "(kitobdan) qidirmoq",
+            "text_uz": "tanimoq, ilg'ab olmoq",
             "text_en": "make out",
             "description": "We can't help making out faces where there aren't any."
           },
@@ -19018,7 +19025,7 @@ export default createStore({
           {
             "id": 47,
             "key": "n",
-            "text_uz": "chizg'i, andoza hushbichim, ingichka",
+            "text_uz": "chizg'i, andoza",
             "text_en": "sketch",
             "description": "They had sketches done of themselves."
           },
