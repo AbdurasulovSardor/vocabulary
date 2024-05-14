@@ -16648,7 +16648,7 @@ export default createStore({
             id: 12,
             key: "n",
             text_uz: "kema xizmati",
-            text_en: "ferry servise",
+            text_en: "ferry service",
             description: "There is a dealy 30-minute ferry servise",
           },
           {
