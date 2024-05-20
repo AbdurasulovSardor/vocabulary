@@ -17557,7 +17557,7 @@ export default createStore({
           {
             id: 6,
             key: "v",
-            text_uz: "buzilmoq",
+            text_uz: "toxtatmoq",
             text_en: "brake",
             description: "Many caes can already brake automatically when they need to slow down",
           },
@@ -17585,7 +17585,7 @@ export default createStore({
           {
             id: 10,
             key: "v",
-            text_uz: "qatnamoq",
+            text_uz: "ishga qatnamoq",
             text_en: "commute",
             description: "I hate commuting to work, it's so stressful",
           },
@@ -17704,7 +17704,7 @@ export default createStore({
           {
             id: 27,
             key: "adj",
-            text_uz: "nochor",
+            text_uz: "noiloj, nochor",
             text_en: "helpless",
             description: "I feel absolutely helpless",
           },
@@ -17752,14 +17752,14 @@ export default createStore({
           {
             id: 34,
             key: "v",
-            text_uz: "xalaqit berish",
+            text_uz: "uzmoq, bo'lib qo'ymoq",
             text_en: "interrupt",
             description: "Don't you ever get annoyed when people interrupt a meeting with a personal call",
           },
           {
             id: 35,
             key: "n",
-            text_uz: "birlashma",
+            text_uz: "chorraha",
             text_en: "junction",
             description: "Driverless cars come with fast broadband and can communicate with traffic lights as they approach junctions ",
           },
@@ -17773,7 +17773,7 @@ export default createStore({
           {
             id: 37,
             key: "n",
-            text_uz: "to'g'ri chiziq",
+            text_uz: "yo'lak",
             text_en: "lane",
             description: "The car is driving in the correct lane on the motorway",
           },
@@ -17822,7 +17822,7 @@ export default createStore({
           {
             id: 44,
             key: "n",
-            text_uz: "egalik qilinuvchi buyum",
+            text_uz: "mulk",
             text_en: "possession",
             description: "Most of our possessions are replaceable",
           },
@@ -17864,7 +17864,7 @@ export default createStore({
           {
             id: 50,
             key: "adj",
-            text_uz: "almashinuvchi",
+            text_uz: "almashtiriladigan",
             text_en: "replaceable",
             description: "This is the one possession I have that is not replaceable",
           },
@@ -17892,7 +17892,7 @@ export default createStore({
           {
             id: 54,
             key: "phr v",
-            text_uz: "chiqib ketish",
+            text_uz: "sirpanib ketish",
             text_en: "slip out",
             description: "Driverless cars can warn the driver if they are slipping out of the correct lane ",
           },
@@ -17948,7 +17948,7 @@ export default createStore({
           {
             id: 62,
             key: "adj",
-            text_uz: "ishsiz",
+            text_uz: "ishga layoqatsiz",
             text_en: "unemployable",
             description: "Those who don't have high-level skills risk being unemployable",
           },
@@ -17962,14 +17962,14 @@ export default createStore({
           {
             id: 64,
             key: "adj",
-            text_uz: "yuvilishi mumkin",
+            text_uz: "yuviladigan",
             text_en: "washable",
             description: "Is this material washable?",
           },
           {
             id: 65,
             key: "n",
-            text_uz: "ob-havo namunasi",
+            text_uz: "ob-havo sharoitlari",
             text_en: "weather pattern",
             description: "If this changes in weather patterns have been happening as a result of global warming, then we should try to prevent further warming",
           }
