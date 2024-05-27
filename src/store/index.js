@@ -18177,7 +18177,483 @@ export default createStore({
             "text_uz": "ninachi",
             "text_en": "dragonfly",
             "description": "Have you ever seen a dragonfly ?"
-          }
+          },
+          {
+            "id": 30,
+            "key": "adj",
+            "text_uz": "erta, barvaqt o'yin-kulgi",
+            "text_en": "early",
+            "description": "What is your earliest memory?"
+          },
+          {
+            "id": 32,
+            "key": "n",
+            "text_uz": "o'yin-kulgu",
+            "text_en": "entertainment",
+            "description": "We are looking for writers with something to say about social media, fashion, food and entertainment."
+          },
+          {
+            "id": 33,
+            "key": "n",
+            "text_uz": "kirish",
+            "text_en": "entrance",
+            "description": "We reward success in exams, for example, with entrance to university."
+          },
+          {
+            "id": 34,
+            "key": "adj",
+            "text_uz": "atrof-muhitga oid",
+            "text_en": "environmental",
+            "description": "She set up a global environmental programme."
+          },
+          {
+            "id": 35,
+            "key": "n",
+            "text_uz": "ijrochi",
+            "text_en": "executive",
+            "description": "He left his job in London to teach English to business executives in Buenos Aires."
+          },
+          {
+            id: 36,
+            key: "adj",
+            text_uz: "kengayuvchi",
+            text_en: "expanding",
+            description: "We are looking for new and experienced leaders to manage our expanding group of coffee shops."
+          },
+          {
+            id: 37,
+            key: "n",
+            text_uz: "muvaffaqiyatsizlik",
+            text_en: "failure",
+            description: "There are reasons why we should value failure as well."
+          },
+          {
+            id: 38,
+            key: "n",
+            text_uz: "shuhrat",
+            text_en: "fame",
+            description: "She uses her fame to raise money for an encephalitis charity."
+          },
+          {
+            id: 39,
+            key: "adj",
+            text_uz: "mashhur",
+            text_en: "famous",
+            description: "She became famous after winning two gold medals. "
+          },
+          {
+            id: 40,
+            key: "n",
+            text_uz: "bayram",
+            text_en: "festival",
+            description: "Are you going to the music festival this weekend? "
+          },
+          {
+            id: 41,
+            key: "v",
+            text_uz: "to'da",
+            text_en: "flock",
+            description: "Young Europeans flock to Argentina for job opportunities. "
+          },
+          {
+            id: 42,
+            key: "phr",
+            text_uz: "cho'qqiga chiqmoq",
+            text_en: "get to the top",
+            description: "Most people who work here want to get to the top."
+          },
+          {
+            id: 43,
+            key: "n",
+            text_uz: "yuqori yutuqlarga erishgan inson",
+            text_en: "high achiever",
+            description: "What does it take to be a high achiever in business?"
+          },
+          {
+            id: 44,
+            key: "adj",
+            text_uz: "insonparvar",
+            text_en: "humanitarian",
+            description: "She works for a humanitarian youth education programme. "
+          },
+          {
+            id: 45,
+            key: "adj",
+            text_uz: "innovativ, yangiliklarga, intiluvchi",
+            text_en: "innovative",
+            description: "The experts were worried that young people in France were not creative or innovative enough for the modern world. "
+          },
+          {
+            id: 46,
+            key: "n",
+            text_uz: "ishdan qoniqish",
+            text_en: "job satisfaction",
+            description: "Job satisfaction is really important. It's good to feel happy and content about what you do."
+          },
+          {
+            id: 47,
+            key: "n",
+            text_uz: "hayot davomiyligi",
+            text_en: "lifetime",
+            description: "It's the experience of a lifetime."
+          },
+          {
+            id: 48,
+            key: "n",
+            text_uz: "hayot tarzi",
+            text_en: "lifestyle",
+            description: "The city welcomes a growing number of young professionals who have come here looking for jobs and a more relaxed lifestyle."
+          },
+          {
+            id: 49,
+            key: "phr",
+            text_uz: "taraqqiyotga erishish",
+            text_en: "make progress",
+            description: "So making a mistake can mean you also make progress!"
+          },
+          {
+            id: 50,
+            key: "phr",
+            text_uz: "keraksiz qilmoq",
+            text_en: "make redundant",
+            description: "The company is making people redundant."
+          },
+          {
+            id: 51,
+            key: "n",
+            text_uz: "boshqaruv",
+            text_en: "management",
+            description: "Do you want to get into management?"
+          },
+          {
+            id: 52,
+            key: "n",
+            text_uz: "turtki berish",
+            text_en: "motivate",
+            description: "What motivates you and what doesn't?"
+          },
+          {
+            id: 53,
+            key: "n",
+            text_uz: "tarmoq",
+            text_en: "networking",
+            description: "I am very active in the world of business networking."
+          },
+          {
+            id: 54,
+            key: "n",
+            text_uz: "bo'ysunish",
+            text_en: "obey",
+            description: "We follow the procedures, obey the rules."
+          },
+          {
+            id: 55,
+            key: "n",
+            text_uz: "kasb, hunar",
+            text_en: "occupation",
+            description: "Two years ago, Hanson decided to change his occupation. "
+          },
+          {
+            id: 56,
+            key: "n",
+            text_uz: "onlayn jamiyat",
+            text_en: "online community",
+            description: "If you have great ideas and experiences to share with our magazine's online community, apply now."
+          },
+          {
+            id: 57,
+            key: "n",
+            text_uz: "tunab qolish bilan",
+            text_en: "overnight",
+            description: "Included in the trip are overnight visits to places of local interest."
+          },
+          {
+            id: 58,
+            key: "n",
+            text_uz: "naqsh, model",
+            text_en: "pattern",
+            description: "In recent years, however, the pattern seems to be changing. "
+          },
+          {
+            id: 59,
+            key: "n",
+            text_uz: "nuqtayi nazar ",
+            text_en: "point of view",
+            description: "Another point of view is provided by Dr Astro Teller who works for Google."
+          },
+          {
+            id: 60,
+            key: "n",
+            text_uz: "pozitsiya, lavozim",
+            text_en: "position",
+            description: "I've been promoted to a higher position."
+          },
+          {
+            id: 61,
+            key: "n",
+            text_uz: "protsedura, tartib, muolaja ",
+            text_en: "procedure",
+            description: "Make sure you follow the procedures."
+          },
+          {
+            id: 62,
+            key: "n",
+            text_uz: "prodyuser",
+            text_en: "producer",
+            description: "There are many directors and producers here younger than I am who are very successful."
+          },
+          {
+            id: 63,
+            key: "n",
+            text_uz: "istiqbollar",
+            text_en: "prospects",
+            description: "My career prospects have definitely been improved by coming to Manila."
+          },
+          {
+            id: 64,
+            key: "n",
+            text_uz: "sifat",
+            text_en: "quality",
+            description: "This company has a good reputation for quality."
+          },
+          {
+            id: 65,
+            key: "v",
+            text_uz: "tark etish",
+            text_en: "quit",
+            description: "She quit her job."
+          },
+          {
+            id: 66,
+            key: "adj",
+            text_uz: "xotirjam",
+            text_en: "relaxed",
+            description: "She changed her job because she wanted a more relaxed lifestyle."
+          },
+          {
+            id: 67,
+            key: "n",
+            text_uz: "ko'chirish idorasi",
+            text_en: "relocation office",
+            description: "I work in an international relocation office, helping companies set up abroad."
+          },
+          {
+            id: 68,
+            key: "adj",
+            text_uz: "ijara to'lovidan holi",
+            text_en: "rent-free",
+            description: "The job came with rent-free accommodation in a beautiful apartment."
+          },
+          {
+            id: 69,
+            key: "n",
+            text_uz: "obro', nufuz",
+            text_en: "reputation",
+            description: "Your company has a very good reputation."
+          },
+          {
+            id: 70,
+            key: "n",
+            text_uz: "tadqiqotchi",
+            text_en: "researcher",
+            description: "She soon became a researcher herself."
+          },
+          {
+            id: 81,
+            key: "v",
+            text_uz: "qayta o'rganish",
+            text_en: "retrain",
+            description: "I have been able to retrain as a landscape designer."
+          },
+          {
+            id: 82,
+            key: "n",
+            text_uz: "qoida",
+            text_en: "rule",
+            description: "We have to obey the rules."
+          },
+          {
+            id: 83,
+            key: "n",
+            text_uz: "maktabni tugatganligi to'g'risida shahodatnoma",
+            text_en: "school leaver's certificate",
+            description: "Applicants should have at least a school leaver's certificate."
+          },
+          {
+            id: 84,
+            key: "n",
+            text_uz: "kasallik ta'til uchun to'lov",
+            text_en: "sick holiday pay",
+            description: "I get sick pay and holiday pay and plenty of time off. "
+          },
+          {
+            id: 85,
+            key: "adj",
+            text_uz: "tajribali",
+            text_en: "skilled",
+            description: "The work available is mainly skilled work."
+          },
+          {
+            id: 86,
+            key: "n",
+            text_uz: "mutaxassis",
+            text_en: "specialist",
+            description: "Some French education specialists recently put on a festival in Paris to encourage children to make mistakes!"
+          },
+          {
+            id: 87,
+            key: "n",
+            text_uz: "turmush darajasi",
+            text_en: "standard of living",
+            description: "They are searching for a higher standard of living."
+          },
+          {
+            id: 88,
+            key: "n",
+            text_uz: "qolish",
+            text_en: "stay",
+            description: "Short stays with local families are included in the trip."
+          },
+          {
+            id: 89,
+            key: "adj",
+            text_uz: "mos",
+            text_en: "suited",
+            description: "I believe I would be ideally suited to a management position in your company."
+          },
+          {
+            id: 90,
+            key: "v",
+            text_uz: "nazorat qilish",
+            text_en: "supervise",
+            description: "Have you ever had a job where you had to supervise other employees?"
+          },
+          {
+            id: 91,
+            key: "phr",
+            text_uz: "tavakkal qilmoq",
+            text_en: "take risks",
+            description: "People who like to take risks think creatively."
+          },
+          {
+            id: 92,
+            key: "adj",
+            text_uz: "iste'dodli",
+            text_en: "talented",
+            description: "A talented musician, he began to learn piano aged five."
+          },
+          {
+            id: 93,
+            key: "adj",
+            text_uz: "vaqtinchalik",
+            text_en: "temporary",
+            description: "Have you ever had a temporary job?"
+          },
+          {
+            id: 94,
+            key: "n",
+            text_uz: "guruh sardori",
+            text_en: "team leader",
+            description: "Last month, I was working in a project team, and I didn't agree with the team leader about the time we needed to complete the project."
+          },
+          {
+            id: 95,
+            key: "adj",
+            text_uz: "mulohazali",
+            text_en: "thoughtful",
+            description: "She is the most thoughtful person that I've ever known."
+          },
+          {
+            id: 96,
+            key: "phr",
+            text_uz: "moziyga sayohat",
+            text_en: "travel back in time",
+            description: "My super power would be to travel back in time."
+          },
+          {
+            id: 97,
+            key: "adj",
+            text_uz: "qimmatbaho",
+            text_en: "treasured",
+            description: "What is your most treasured possession?"
+          },
+          {
+            id: 98,
+            key: "adj",
+            text_uz: "aql bovar qilmaydigan",
+            text_en: "unbelievable",
+            description: "His company is famous for its unbelievable failures."
+          },
+          {
+            id: 99,
+            key: "v",
+            text_uz: "birlashtirmoq",
+            text_en: "unite",
+            description: "He co-founded an orchestra in order to unite Israeli and Arab musicians."
+          },
+          {
+            id: 100,
+            key: "adj",
+            text_uz: "tajribasiz",
+            text_en: "unskilled",
+            description: "There's plenty of work, both unskilled and skilled."
+          },
+          {
+            id: 101,
+            key: "adj",
+            text_uz: "zamonaviy",
+            text_en: "up to date",
+            description: "My business knowledge and IT skills are up to date."
+          },
+          {
+            id: 102,
+            key: "v",
+            text_uz: "qadirlamoq",
+            text_en: "value",
+            description: "You should value your position in the company."
+          },
+          {
+            id: 103,
+            key: "n",
+            text_uz: "viza",
+            text_en: "visa",
+            description: "It wasn't too difficult to get a visa."
+          },
+          {
+            id: 104,
+            key: "adj",
+            text_uz: "yaxshi ma’lum, tanilgan",
+            text_en: "well known",
+            description: "He is also well known for his work with young people."
+          },
+          {
+            id: 105,
+            key: "n",
+            text_uz: "hayrat",
+            text_en: "wonder",
+            description: "The activities in the week-long event showed the participants the wonder and pleasure of getting things wrong."
+          },
+          {
+            id: 106,
+            key: "n",
+            text_uz: "ish tajribasi",
+            text_en: "work experience",
+            description: "With my work experience and skills, I believe I would be ideally suited to a management position in your company."
+          },
+          {
+            id: 107,
+            key: "n",
+            text_uz: "ish sharoitlari",
+            text_en: "working conditions",
+            description: "The working conditions are much better at the moment than in Lisbon, where I'm from."
+          },
+          {
+            id: 108,
+            key: "n",
+            text_uz: "ish vaqti",
+            text_en: "working hours",
+            description: "What are your usual working hours?"
+          },
         ],
         unit8: [
           {
