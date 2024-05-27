@@ -18638,7 +18638,7 @@ export default createStore({
           {
             "id": 66,
             "key": "adv",
-            "text_uz": "ajoyib tarzda",
+            "text_uz": "ta'sirli",
             "text_en": "spectacularly",
             "description": "I must say, it did look spectacularly beautiful."
           },
