@@ -20096,7 +20096,15 @@ export default createStore({
             "description": "Istanbul is now one of Europe's most popular and vibrant cities."
           }
         ],
-        unit11: [],
+        unit11: [
+          {
+            id: 1,
+            key: "",
+            text_uz: "",
+            text_en: "",
+            description: ""
+          },
+        ],
         unit12: [],
       },
       upperIntermediate: {
