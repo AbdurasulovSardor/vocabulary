@@ -18147,7 +18147,7 @@ export default createStore({
             "id": 25,
             "key": "n",
             "text_uz": "qaror qabul qiluvchi",
-            "text_en": "decision marker",
+            "text_en": "decision maker",
             "description": "Her sister's illness made her more determined to succeed."
           },
           {
