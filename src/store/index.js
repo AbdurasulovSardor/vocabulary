@@ -20219,14 +20219,14 @@ export default createStore({
           {
             id: 18,
             key: "n",
-            text_uz: "noqonuniy",
+            text_uz: "jarima",
             text_en: "fine",
             description: "The doctor made the patients pay a fine if they missed an appointment."
           },
           {
             id: 19,
             key: "adv",
-            text_uz: "jarima",
+            text_uz: "noqonuniy",
             text_en: "illegally",
             description: "They entered the building illegally."
           },
@@ -20324,14 +20324,14 @@ export default createStore({
           {
             id: 33,
             key: "adv",
-            text_uz: "o'g'irlamoq, talamoq ",
+            text_uz: "xabarlarga ko'ra",
             text_en: "reportedly",
             description: "He had reportedly taught himself to fly, using information he found on the internet."
           },
           {
             id: 34,
             key: "v",
-            text_uz: "xabarlarga ko'ra",
+            text_uz: "o'g'irlamoq, talamoq",
             text_en: "rob",
             description: "They were planning to rob the bank."
           },
@@ -20443,7 +20443,7 @@ export default createStore({
           {
             id: 50,
             key: "adj",
-            text_uz: "aprofessional bo'lmagan",
+            text_uz: "noprofessional",
             text_en: "unprofessional",
             description: "Now my boss thinks I'm really unprofessional."
           },
