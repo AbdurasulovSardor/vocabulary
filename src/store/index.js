@@ -19622,7 +19622,7 @@ export default createStore({
           {
             "id": 7,
             "key": "n",
-            "text_uz": "krediti butik mehmonxona",
+            "text_uz": "butik mehmonxona",
             "text_en": "boutique hotel",
             "description": "The old buildings were turned into boutique hotels."
           },
@@ -19706,7 +19706,7 @@ export default createStore({
           {
             "id": 19,
             "key": "n",
-            "text_uz": "tevarak atrofda baland ko'tarilib turmoq, ustuvorlik qilish quloq tutqichi, quloqni to'suvchi tiqin",
+            "text_uz": "quloqni to'suvchi tiqin",
             "text_en": "earplug",
             "description": "There are two holes which are located near your ears so you can put in ear-plugs."
           },
@@ -19755,7 +19755,7 @@ export default createStore({
           {
             "id": 26,
             "key": "phr",
-            "text_uz": "bo'lmoq",
+            "text_uz": "tushunchaga ega bo'lmoq",
             "text_en": "have a clue (about) ",
             "description": "I haven't got a clue about racing."
           },
@@ -19853,14 +19853,14 @@ export default createStore({
           {
             "id": 40,
             "key": "v",
-            "text_uz": "garov",
+            "text_uz": "pul kiritmoq",
             "text_en": "pledge",
             "description": "People have pledged $195,094."
           },
           {
             "id": 41,
             "key": "n",
-            "text_uz": "pul kiritmoq mashhurlik, shuhrat",
+            "text_uz": "mashhurlik, shuhrat",
             "text_en": "popularity",
             "description": "It is growing in popularity in countries like the United States, Switzerland and Canada."
           },
@@ -19881,7 +19881,7 @@ export default createStore({
           {
             "id": 44,
             "key": "v",
-            "text_uz": "mavhum",
+            "text_uz": "boshga kiyish",
             "text_en": "pull (over)",
             "description": "It's a padded hat that people can pull over their heads to take а nар."
           },
@@ -19980,7 +19980,7 @@ export default createStore({
             "id": 58,
             "key": "adj",
             "text_uz": "eng songgi, o'ta zamonaviy",
-            "text_en": "state-of-the-art",
+            "text_en": "state of the art",
             "description": "The warehouse is now a state-of-the-art gallery."
           },
           {
