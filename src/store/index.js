@@ -20099,10 +20099,381 @@ export default createStore({
         unit11: [
           {
             id: 1,
-            key: "",
-            text_uz: "",
-            text_en: "",
-            description: ""
+            key: "v",
+            text_uz: "hibsga olmoq",
+            text_en: "arrest",
+            description: "The police are close to arresting him."
+          },
+          {
+            id: 2,
+            key: "n",
+            text_uz: "bandit/ bosqinchi",
+            text_en: "bandit",
+            description: "They call him the 'barefoot bandit'."
+          },
+          {
+            id: 3,
+            key: "adj",
+            text_uz: "yalangoyoq",
+            text_en: "barefoot",
+            description: "He's known as the 'barefoot bandit', as he often carries out his robberies with no shoes on."
+          },
+          {
+            id: 4,
+            key: "v",
+            text_uz: "blog yozmoq",
+            text_en: "blog",
+            description: "It led to people blogging or tweeting about the issue."
+          },
+          {
+            id: 5,
+            key: "n",
+            text_uz: "o'g'ri qulf-buzar",
+            text_en: "burglar",
+            description: "A burglar was caught on Friday night, after getting stuck in a bathroom window."
+          },
+          {
+            id: 6,
+            key: "n",
+            text_uz: "o'g'rilik, qulf buzarlik",
+            text_en: "burglary",
+            description: "His burglaries have terrified local residents."
+          },
+          {
+            id: 7,
+            key: "n",
+            text_uz: "nomzod",
+            text_en: "candidate",
+            description: "They should've given him the job anyway if he was the best candidate."
+          },
+          {
+            id: 8,
+            key: "v",
+            text_uz: "qo'lga olish/ qo'lga tushirish",
+            text_en: "capture",
+            description: "The police have been trying to capture 19-year-old Cotton Harris-Moore for nearly two years."
+          },
+          {
+            id: 9,
+            key: "adj",
+            text_uz: "beparvo/ e'tiborsiz",
+            text_en: "careless",
+            description: "I thought it was very careless and unpleasant of him."
+          },
+          {
+            id: 10,
+            key: "v",
+            text_uz: "almashtirmoq/ o'zgartirmoq",
+            text_en: "change",
+            description: "The school buildings have changed very little since I was at school."
+          },
+          {
+            id: 11,
+            key: "n",
+            text_uz: "oqibat",
+            text_en: "consequence",
+            description: "The idea of unintended consequences is an important one in politics and economics."
+          },
+          {
+            id: 12,
+            key: "v",
+            text_uz: "halokatli qo'nish",
+            text_en: "crash-land",
+            description: "That didn't stop him from crash-landing in the sea."
+          },
+          {
+            id: 13,
+            key: "n",
+            text_uz: "jinoyatchi",
+            text_en: "criminal",
+            description: "There are examples of criminals who actually did some good."
+          },
+          {
+            id: 14,
+            key: "n",
+            text_uz: "kiberhujum",
+            text_en: "cyberbullying",
+            description: "This can therefore result in a careless or unpleasant tweet, or at worst, cyberbullying."
+          },
+          {
+            id: 15,
+            key: "n",
+            text_uz: "kechikmoq, keying surmoq",
+            text_en: "delay",
+            description: "I apologize for the delay in replying."
+          },
+          {
+            id: 16,
+            key: "v",
+            text_uz: "qochmoq",
+            text_en: "escape",
+            description: "He escaped from prison."
+          },
+          {
+            id: 17,
+            key: "n",
+            text_uz: "kengaytirish, yoyish",
+            text_en: "extension",
+            description: "It would have been better to ask for an extension earlier."
+          },
+          {
+            id: 18,
+            key: "n",
+            text_uz: "noqonuniy",
+            text_en: "fine",
+            description: "The doctor made the patients pay a fine if they missed an appointment."
+          },
+          {
+            id: 19,
+            key: "adv",
+            text_uz: "jarima",
+            text_en: "illegally",
+            description: "They entered the building illegally."
+          },
+          {
+            id: 20,
+            key: "n",
+            text_uz: "noqulaylik",
+            text_en: "inconvenience",
+            description: "I apologize for the inconvenience."
+          },
+          {
+            id: 21,
+            key: "n",
+            text_uz: "muammo, masala",
+            text_en: "issue",
+            description: "I have had some problems completing work in the last month due to family issues."
+          },
+          {
+            id: 22,
+            key: "v",
+            text_uz: "haqorat qilmoq, tahqirlamoq",
+            text_en: "insult",
+            description: "They are more likely to insult each other when the communication is not face-to-face."
+          },
+          {
+            id: 23,
+            key: "n",
+            text_uz: "o'zaro ta'sir",
+            text_en: "interaction",
+            description: "More than half of the 2,000 people surveyed said that they felt social media had replaced face-to-face interaction."
+          },
+          {
+            id: 24,
+            key: "n",
+            text_uz: "chiroq",
+            text_en: "light",
+            description: "Please can you turn on the light. It's very dark in here."
+          },
+          {
+            id: 25,
+            key: "n",
+            text_uz: "match",
+            text_en: "match",
+            description: "Are you going to watch the match this evening?"
+          },
+          {
+            id: 26,
+            key: "adj",
+            text_uz: "jirkanch, yomon, yoqimsiz",
+            text_en: "nasty",
+            description: "More than a quarter (26%) admitted they have said something nasty on a social media website."
+          },
+          {
+            id: 27,
+            key: "n",
+            text_uz: "jinoyatchi ",
+            text_en: "outlaw",
+            description: "The outlaw became an internet sensation."
+          },
+          {
+            id: 28,
+            key: "adj",
+            text_uz: "jo'shqin, ehtirosli",
+            text_en: "passionate",
+            description: "They felt passionate about it."
+          },
+          {
+            id: 29,
+            key: "n",
+            text_uz: "ruxsat, ijozat",
+            text_en: "permission",
+            description: "The DVDs were taken without permission."
+          },
+          {
+            id: 30,
+            key: "n",
+            text_uz: "qamoqxona",
+            text_en: "prison",
+            description: "He is in prison."
+          },
+          {
+            id: 31,
+            key: "n",
+            text_uz: "jazo",
+            text_en: "punishment",
+            description: "The court will decide on his punishment later today."
+          },
+          {
+            id: 32,
+            key: "v",
+            text_uz: "afsuslanmoq",
+            text_en: "regret",
+            description: "More than a quarter of all users of Twitter and other social networking sites send messages they later regret."
+          },
+          {
+            id: 33,
+            key: "adv",
+            text_uz: "o'g'irlamoq, talamoq ",
+            text_en: "reportedly",
+            description: "He had reportedly taught himself to fly, using information he found on the internet."
+          },
+          {
+            id: 34,
+            key: "v",
+            text_uz: "xabarlarga ko'ra",
+            text_en: "rob",
+            description: "They were planning to rob the bank."
+          },
+          {
+            id: 35,
+            key: "n",
+            text_uz: "o'g'ri",
+            text_en: "robber",
+            description: "The robber is known to the police."
+          },
+          {
+            id: 36,
+            key: "phr",
+            text_uz: "biror nimani yuziga aytmoq",
+            text_en: "say to face",
+            description: "Online, people are more likely to say something rude or nasty that they would never say to someone's face."
+          },
+          {
+            id: 37,
+            key: "n",
+            text_uz: "olamshumul voqea",
+            text_en: "sensation",
+            description: "He became an internet sensation, with a Facebook fan page collecting thousands of 'likes'."
+          },
+          {
+            id: 38,
+            key: "v",
+            text_uz: "mahkum qilmoq",
+            text_en: "sentence",
+            description: "He was sentenced to seven years in prison."
+          },
+          {
+            id: 39,
+            key: "adj",
+            text_uz: "ortiqcha, zaxira, bo'sh",
+            text_en: "spare",
+            description: "I thought it would be good to offer her my spare ticket. "
+          },
+          {
+            id: 40,
+            key: "phr",
+            text_uz: "o'z fikrini ayta olish",
+            text_en: "speak up",
+            description: "Nearly two in five people said they used social media to speak up about something."
+          },
+          {
+            id: 41,
+            key: "n",
+            text_uz: "maydon, skver",
+            text_en: "square",
+            description: "Let's meet in the town square this afternoon."
+          },
+          {
+            id: 42,
+            key: "adj",
+            text_uz: "o'g'irlangan",
+            text_en: "stolen",
+            description: "He escaped by flying a stolen plane all the way from Indiana to the Bahamas."
+          },
+          {
+            id: 43,
+            key: "phr",
+            text_uz: "biror nimani qilishni to'xtatmoq",
+            text_en: "stop from",
+            description: "That didn't stop him from crash-landing in the sea."
+          },
+          {
+            id: 44,
+            key: "n",
+            text_uz: "topshirish",
+            text_en: "submission",
+            description: "Please accept my apologies for the late submission of this term's work."
+          },
+          {
+            id: 45,
+            key: "v",
+            text_uz: "gumon qilmoq",
+            text_en: "suspect",
+            description: "He is suspected of more than 100 thefts in the United States and Canada."
+          },
+          {
+            id: 46,
+            key: "n",
+            text_uz: "o'g'irlik",
+            text_en: "theft",
+            description: "There have been a lot of thefts recently."
+          },
+          {
+            id: 47,
+            key: "n",
+            text_uz: "o'g'ri",
+            text_en: "thief",
+            description: "The thief was caught by the police earlier this morning."
+          },
+          {
+            id: 48,
+            key: "adj",
+            text_uz: "urf bo'lmagan",
+            text_en: "unfashionable",
+            description: "The problem is that wearing crash helmets is very 'uncool' or unfashionable."
+          },
+          {
+            id: 49,
+            key: "adj",
+            text_uz: "kutilmagan, ko'zda tutilmagan",
+            text_en: "unintended",
+            description: "The idea of unintended consequences is an important one in politics and economics."
+          },
+          {
+            id: 50,
+            key: "adj",
+            text_uz: "aprofessional bo'lmagan",
+            text_en: "unprofessional",
+            description: "Now my boss thinks I'm really unprofessional."
+          },
+          {
+            id: 51,
+            key: "v",
+            text_uz: "yuklamoq",
+            text_en: "upload",
+            description: "I was uploading a different video and accidentally clicked on this video, too."
+          },
+          {
+            id: 52,
+            key: "v",
+            text_uz: "hafa qilmoq",
+            text_en: "upset",
+            description: "I didn't mean to upset you."
+          },
+          {
+            id: 53,
+            key: "n",
+            text_uz: "jabrlanuvchi, qurbon",
+            text_en: "victim",
+            description: "None of his victims were actually injured."
+          },
+          {
+            id: 54,
+            key: "n",
+            text_uz: "zo'ravonlik",
+            text_en: "violence",
+            description: "The thieves used unnecessary violence."
           },
         ],
         unit12: [],
