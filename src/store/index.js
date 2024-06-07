@@ -20476,7 +20476,254 @@ export default createStore({
             description: "The thieves used unnecessary violence."
           },
         ],
-        unit12: [],
+        unit12: [
+          {
+            id: 1,
+            key: "n",
+            text_uz: "reklama, e'lon",
+            text_en: "advert",
+            description: "I think the most effective adverts are those that make people laugh."
+          },
+          {
+            id: 2,
+            key: "v",
+            text_uz: "qiyoslamoq, bog'lamoq",
+            text_en: "associate",
+            description: "One tip for remembering a person's name is to look at their face and associate it with the name."
+          },
+          {
+            id: 3,
+            key: "n",
+            text_uz: "e'lonlar taxtasi",
+            text_en: "billboard",
+            description: "Have you seen the new advertising billboards near the cinema?"
+          },
+          {
+            id: 4,
+            key: "n",
+            text_uz: "mahsulot nomi",
+            text_en: "brand",
+            description: "She always buys the well-known brands."
+          },
+          {
+            id: 5,
+            key: "phr",
+            text_uz: "ortidan ergashtirmoq",
+            text_en: "bring round to",
+            description: "You won't be successful in business if you can't bring people round to your way of thinking."
+          },
+          {
+            id: 6,
+            key: "n",
+            text_uz: "kamchilik",
+            text_en: "drawback",
+            description: "Another drawback is the cost of production."
+          },
+          {
+            id: 7,
+            key: "adj",
+            text_uz: "samarali",
+            text_en: "effective",
+            description: "What are the most effective adverts?"
+          },
+          {
+            id: 8,
+            key: "adj",
+            text_uz: "uysiz",
+            text_en: "homeless",
+            description: "I saw an amazing ad to raise our awareness of the problems homeless people have."
+          },
+          {
+            id: 9,
+            key: "n",
+            text_uz: "ko'rinish",
+            text_en: "image",
+            description: "I think this gives the companies a negative image."
+          },
+          {
+            id: 10,
+            key: "v",
+            text_uz: "ta'sir o'tkazmoq",
+            text_en: "influence",
+            description: "Funny adverts can be a good way to influence people. Each product is recognized by its own logo."
+          },
+
+          {
+            id: 11,
+            key: "n",
+            text_uz: "mahsulot belgisi",
+            text_en: "logo",
+            description: "Each product is recognized by its own logo."
+          },
+          {
+            id: 12,
+            key: "phr",
+            text_uz: "xabardor qilmoq",
+            text_en: "make aware of",
+            description: "Adverts can make people aware of social issues."
+          },
+          {
+            id: 13,
+            key: "adj",
+            text_uz: "asosiy",
+            text_en: "major",
+            description: "What do you think are the major advantages?"
+          },
+          {
+            id: 14,
+            key: "adj",
+            text_uz: "esda qolarli",
+            text_en: "memorable",
+            description: "It's important to make sure our adverts are memorable."
+          },
+          {
+            id: 15,
+            key: "n",
+            text_uz: "querkaklar kiyim do'koni",
+            text_en: "menswear store",
+            description: "I was in town recently in a menswear store."
+          },
+          {
+            id: 16,
+            key: "n",
+            text_uz: "kuya kapalagi",
+            text_en: "moth",
+            description: "He saw a huge cloud of moths coming towards them. "
+          },
+          {
+            id: 17,
+            key: "n",
+            text_uz: "muzokarachi",
+            text_en: "negotiator",
+            description: "With this book, you will become an amazing negotiator."
+          },
+          {
+            id: 18,
+            key: "n",
+            text_uz: "yangiliklar kun tartibi",
+            text_en: "news agenda",
+            description: "France 24 online provides an alternative to the English- language dominated news agenda."
+          },
+          {
+            id: 19,
+            key: "n",
+            text_uz: "e'tiroz, norozilik",
+            text_en: "objection",
+            description: "This book will help you to overcome objections."
+          },
+          {
+            id: 20,
+            key: "n",
+            text_uz: "maqsad",
+            text_en: "objective",
+            description: "The main objectives of 'fast fashion' are to bring high-fashion clothes into the shops quickly and cheaply."
+          },
+          {
+            id: 21,
+            key: "v",
+            text_uz: "ustun kelmoq, yengmoq",
+            text_en: "overcome",
+            description: "What do you think is the best way to overcome someone's objections to an idea?"
+          },
+          {
+            id: 22,
+            key: "phr",
+            text_uz: "qonun qabul qilish",
+            text_en: "pass a law",
+            description: "The instructor told them that a new law had been passed."
+          },
+          {
+            id: 23,
+            key: "n",
+            text_uz: "nuqtai nazar",
+            text_en: "perspective",
+            description: "The 226 Alliance Françaises and France 24 online provide news from a different perspective."
+          },
+          {
+            id: 24,
+            key: "n",
+            text_uz: "ishontirish",
+            text_en: "persuasion",
+            description: "Philip is a full-time speaker on the psychology of persuasion. "
+          },
+          {
+            id: 25,
+            key: "adj",
+            text_uz: "ishonarli, asosli",
+            text_en: "persuasive",
+            description: "It's a very persuasive advert."
+          },
+          {
+            id: 26,
+            key: "n",
+            text_uz: "nazar, fikr, qarash",
+            text_en: "point of view",
+            description: "It's important that you understand the other person's point of view."
+          },
+          {
+            id: 27,
+            key: "n",
+            text_uz: "afisha, e'lon",
+            text_en: "poster",
+            description: "Please can you put this poster up to advertise the concert?"
+          },
+          {
+            id: 28,
+            key: "n",
+            text_uz: "psixologiya",
+            text_en: "psychology",
+            description: "Philip Hesketh is a full-time international business speaker on the psychology of persuasion."
+          },
+          {
+            id: 29,
+            key: "phr",
+            text_uz: "suyanmoq, tayanmoq",
+            text_en: "rely on",
+            description: "They don't rely on radio stations to tell them what music they should listen to any more."
+          },
+          {
+            id: 30,
+            key: "n",
+            text_uz: "shior, chaqiriq",
+            text_en: "slogan",
+            description: "What slogans can you remember?"
+          },
+          {
+            id: 31,
+            key: "n",
+            text_uz: "nozik jihat, nozik qudrat",
+            text_en: "soft power",
+            description: "The Olympic Games can increase a country's soft power."
+          },
+          {
+            id: 32,
+            key: "adj",
+            text_uz: "zamonaviy, ommaviy, uslubga mos",
+            text_en: "stylish",
+            description: "This particular model was never stylish! It's just awful."
+          },
+          {
+            id: 33,
+            key: "phrv",
+            text_uz: "o'chirmoq (chiroq)",
+            text_en: "switch off",
+            description: "Maybe every moth in Australia was heading for their light because all the others had been switched off!"
+          },
+          {
+            id: 34,
+            key: "adj",
+            text_uz: "xafa",
+            text_en: "upset",
+            description: "I was really upset when I saw this advert."
+          },
+          {
+            id: 35,
+            key: "phrv",
+            text_uz: "o'z tomoniga og'dirmoq",
+            text_en: "win over",
+            description: "This book will help you find the perfect way to win people over."
+          },
+        ],
       },
       upperIntermediate: {
         unit1: [],
