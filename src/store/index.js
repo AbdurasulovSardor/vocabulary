@@ -20579,7 +20579,7 @@ export default createStore({
           {
             id: 15,
             key: "n",
-            text_uz: "querkaklar kiyim do'koni",
+            text_uz: "erkaklar kiyim do'koni",
             text_en: "menswear store",
             description: "I was in town recently in a menswear store."
           },
