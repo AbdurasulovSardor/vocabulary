@@ -20726,7 +20726,513 @@ export default createStore({
         ],
       },
       upperIntermediate: {
-        unit1: [],
+        unit1: [
+          {
+            id: 1,
+            key: "v",
+            text_uz: "moslashtirmoq",
+            text_en: "adapt (to)",
+            description: "The locals adapted the whistling language to Spanish."
+          },
+          {
+            id: 2,
+            key: "n",
+            text_uz: "uzoq muddat, ancha vaqt",
+            text_en: "ages",
+            description: "It seems like ages since we were in touch."
+          },
+          {
+            id: 3,
+            key: "n",
+            text_uz: "ilova, havola",
+            text_en: "app",
+            description: "I've downloaded a Spanish vocabulary app for extra practice."
+          },
+          {
+            id: 4,
+            key: "v",
+            text_uz: "qadrlamoq, minnatdor bo'lmoq",
+            text_en: "appreciate",
+            description: "There is so much to appreciate when you receive a handwritten letter."
+          },
+          {
+            id: 5,
+            key: "v",
+            text_uz: "hibsga olmoq",
+            text_en: "arrest",
+            description: "In the Phillipines, what can you be arrested for?"
+          },
+          {
+            id: 6,
+            key: "n",
+            text_uz: "urinish",
+            text_en: "attempt",
+            description: "Several internet campaigns have sprung up in an attempt to save the art of letter-writing."
+          },
+          {
+            id: 7,
+            key: "adj",
+            text_uz: "noqulay",
+            text_en: "awkward",
+            description: "Stand too close and you might make someone feel awkward."
+          },
+          {
+            id: 8,
+            key: "v",
+            text_uz: "ta'qiqlamoq",
+            text_en: "ban (from)",
+            description: "Henry Ford banned his employees from whistling."
+          },
+          {
+            id: 9,
+            key: "phr",
+            text_uz: "sabr qilmoq, chidamoq",
+            text_en: "bear with",
+            description: "Just bear with me a moment."
+          },
+          {
+            id: 10,
+            key: "n",
+            text_uz: "qush sayrashi",
+            text_en: "birdsong",
+            description: "Lots of birdsong can be heard at dawn."
+          },
+
+          {
+            id: 11,
+            key: "n",
+            text_uz: "blogger",
+            text_en: "blogger",
+            description: "Shaun Usher is a blogger who posts letters on his website."
+          },
+          {
+            id: 12,
+            key: "phr",
+            text_uz: "yetib olmoq",
+            text_en: "catch up",
+            description: "It would be great if we could catch up properly soon."
+          },
+          {
+            id: 13,
+            key: "v",
+            text_uz: "sabab bo'lmoq",
+            text_en: "cause",
+            description: "Getting these things wrong can cause offence."
+          },
+          {
+            id: 14,
+            key: "v",
+            text_uz: "ilova qilish",
+            text_en: "cc (somebody) into",
+            description: "Can you cc somebody into a handwritten letter?"
+          },
+          {
+            id: 15,
+            key: "adj",
+            text_uz: "maxfiy",
+            text_en: "confidential",
+            description: "If an email is confidential, you shouldn't share it with anyone."
+          },
+          {
+            id: 16,
+            key: "v",
+            text_uz: "chalkashtirmoq, adashtirmoq",
+            text_en: "confuse",
+            description: "It's easy to confuse Silbo with birdsong."
+          },
+          {
+            id: 17,
+            key: "v",
+            text_uz: "-dan iborat bo'lmoq, tarkib topmoq",
+            text_en: "consist (of)",
+            description: "Silbo consists of four vowels and four consonants."
+          },
+          {
+            id: 18,
+            key: "v",
+            text_uz: "hissa qo'shmoq",
+            text_en: "contribute (to)",
+            description: "The development of mobile phones contributed to the decline of Silbo."
+          },
+          {
+            id: 19,
+            key: "phr",
+            text_uz: "nusxa ko'chirmoq",
+            text_en: "copy (somebody) in",
+            description: "I copied you in on my email to him."
+          },
+          {
+            id: 20,
+            key: "n",
+            text_uz: "yozishma",
+            text_en: "correspondence",
+            description: "What correspondence will we leave behind for future generations?"
+          },
+          {
+            id: 21,
+            key: "n",
+            text_uz: "qamrov",
+            text_en: "coverage",
+            description: "In much of the island, you cannot depend on telephone coverage."
+          },
+          {
+            id: 22,
+            key: " phr",
+            text_uz: "ustidan chizmoq",
+            text_en: "cross out",
+            description: "If you make a mistake, just cross it out."
+          },
+          {
+            id: 23,
+            key: "v",
+            text_uz: "chashka shakliga keltirish",
+            text_en: "cup",
+            description: "One hand is cupped next to the mouth to control the whistle's direction."
+          },
+          {
+            id: 24,
+            key: "v",
+            text_uz: "burmoq (barmoqni)",
+            text_en: "curl",
+            description: "The 'come here' sign is made by curling your finger towards you."
+          },
+          {
+            id: 25,
+            key: "v",
+            text_uz: "o'chirib tashlamoq",
+            text_en: "delete",
+            description: "Texts and emails are quickly deleted, while letters stay around for longer."
+          },
+          {
+            id: 26,
+            key: " pr",
+            text_uz: "yo'qolib bormoq",
+            text_en: "die out",
+            description: "If letters died out completely, that would be the greatest loss to our culture."
+          },
+          {
+            id: 27,
+            key: "n",
+            text_uz: "raqamli axborot vositalari",
+            text_en: "digital media",
+            description: "With digital media, we write more than ever before."
+          },
+          {
+            id: 28,
+            key: "v",
+            text_uz: "rad qilmoq, ma'qullamaslik",
+            text_en: "disapprove (of)",
+            description: "Spectators whistle when they disapprove of a referee's decision."
+          },
+          {
+            id: 29,
+            key: "phr",
+            text_uz: "suhbatda ustunlik qilmoq",
+            text_en: "dominate the conversation ",
+            description: "I don't like the way she always dominates the conversation."
+          },
+          {
+            id: 30,
+            key: "n",
+            text_uz: "kulgich",
+            text_en: "emoticon",
+            description: "We often use emoticons instead of expressing our feelings."
+          },
+          {
+            id: 31,
+            key: "adj",
+            text_uz: "ko'ngil ochar",
+            text_en: "entertaining",
+            description: "We had an entertaining evening with our friends this weekend."
+          },
+          {
+            id: 32,
+            key: "v",
+            text_uz: "o'rnatmoq, yo'lga qo'ymoq",
+            text_en: "establish",
+            description: "In conversations, we often try to establish shared interests."
+          },
+          {
+            id: 33,
+            key: "phr",
+            text_uz: "yangilik almashish",
+            text_en: "exchange news",
+            description: "We can exchange news by email, text or letter."
+          },
+          {
+            id: 34,
+            key: "adj",
+            text_uz: "g'ayrioddiy, notabily",
+            text_en: "extraordinary",
+            description: "Silbo is an extraordinary language which is whistled rather than spoken."
+          },
+          {
+            id: 35,
+            key: "n",
+            text_uz: "imo-ishora",
+            text_en: "gesture",
+            description: "I'd like to talk about gestures - the signs we make with our hands."
+          },
+          {
+            id: 36,
+            key: "n",
+            text_uz: "husnixat",
+            text_en: "handwriting",
+            description: "I've always had terrible handwriting."
+          },
+          {
+            id: 37,
+            key: "adj",
+            text_uz: "qo'lda yozilgan",
+            text_en: "handwritten",
+            description: "The handwritten letter is in serious decline."
+          },
+          {
+            id: 38,
+            key: "phr",
+            text_uz: "tushunmovchilik bo'lishi",
+            text_en: "have a misunderstanding",
+            description: "People from different cultures can have a misunderstanding if they don't know each other's rules of communication."
+          },
+          {
+            id: 39,
+            key: "phr",
+            text_uz: "xafalashib qolmoqn",
+            text_en: "have a row",
+            description: "I don't want to have a row about the weather."
+          },
+          {
+            id: 40,
+            key: "v",
+            text_uz: "(haqida) eshitmoq",
+            text_en: "hear (of)",
+            description: "Have you heard of Silbo Gomero?"
+          },
+          {
+            id: 41,
+            key: " phr",
+            text_uz: "kim bilandir chiqishib ketmoq",
+            text_en: "hit it off (with someone)",
+            description: "Can you tell me about a person you hit it off with as soon as you met them?"
+          },
+          {
+            id: 42,
+            key: " n",
+            text_uz: "taassurot",
+            text_en: "impression",
+            description: "When is it very important to make a good impression?"
+          },
+          {
+            id: 43,
+            key: "n",
+            text_uz: "xujjatlar uchun idish (quti)",
+            text_en: "in tray ",
+            description: "Please put the letter in my in tray."
+          },
+          {
+            id: 44,
+            key: " n",
+            text_uz: "kiruvchi xatlar",
+            text_en: "inbox",
+            description: "My inbox is too full - I need to delete some emails."
+          },
+          {
+            id: 45,
+            key: " adj",
+            text_uz: "tezkor, bir onda sodir bo'ladigan",
+            text_en: "instant",
+            description: "Texts and emails allow for instant communication but are quickly deleted."
+          },
+          {
+            id: 46,
+            key: " v",
+            text_uz: "xalaqit bermoq, bo'lib qo'ymoq",
+            text_en: "interrupt",
+            description: "For communication to be successful, we need to know if it's OK to interrupt a person."
+          },
+          {
+            id: 47,
+            key: " n",
+            text_uz: "orolda istiqomat qiluvchi",
+            text_en: "islander",
+            description: "The islanders of La Gomera have been communicating with whistles for centuries."
+          },
+          {
+            id: 48,
+            key: " n",
+            text_uz: "shahar telefoni",
+            text_en: "landline",
+            description: "Could you call me back on my landline?"
+          },
+          {
+            id: 49,
+            key: " v",
+            text_uz: "sabab bo'lmoq,...ga olib kelmoq",
+            text_en: "lead (to)",
+            description: "Getting these things wrong can lead to misunderstandings. "
+          },
+          {
+            id: 50,
+            key: " n",
+            text_uz: "tarmoq",
+            text_en: "line",
+            description: "Hold on, the line is breaking up."
+          },
+          {
+            id: 51,
+            key: "phr",
+            text_uz: "qiziqish bilan tinglamoq",
+            text_en: "listen enthusiastically",
+            description: "It would be good if you tried to listen more enthusiastically in conversations."
+          },
+          {
+            id: 52,
+            key: "adj",
+            text_uz: "omadli",
+            text_en: "lucky",
+            description: "If you're lucky, you'll hear the islanders whistle on La Gomera."
+          },
+          {
+            id: 53,
+            key: "phr",
+            text_uz: "yaxshi taassurot qoldirmoq",
+            text_en: "make a good impression",
+            description: "You want to make a good impression in an interview."
+          },
+          {
+            id: 54,
+            key: "phr",
+            text_uz: "kichik suhbat olib bormoq",
+            text_en: "make small talk",
+            description: "Could you tell me how easy you find it to make small talk?"
+          },
+          {
+            id: 55,
+            key: "n",
+            text_uz: "tushunmovchilik",
+            text_en: "misunderstanding",
+            description: "Getting these things wrong can lead to misunderstandings."
+          },
+          {
+            id: 56,
+            key: "v",
+            text_uz: "xafa qilmoq, ranjitmoq, haqorat qilmoq",
+            text_en: "offend (someone)",
+            description: "The weather is seen as a topic which is unlikely to offend anybody."
+          },
+          {
+            id: 57,
+            key: "phr",
+            text_uz: "baxtdan sarxush bo'lmoq",
+            text_en: "over the moon",
+            description: "My sister and her husband are over the moon because they are having twins!"
+          },
+          {
+            id: 58,
+            key: "adj",
+            text_uz: "dehqonlarga oid",
+            text_en: "peasant",
+            description: "Some locals think that Silbo is a peasant language that should be left to die out."
+          },
+          {
+            id: 59,
+            key: "n",
+            text_uz: "pochta markasi",
+            text_en: "postage stamp",
+            description: "Do you know the cost of a postage stamp?"
+          },
+          {
+            id: 60,
+            key: "n",
+            text_uz: "tinish belgilari",
+            text_en: "punctuation",
+            description: "Punctuation is important in written communication."
+          },
+          {
+            id: 61,
+            key: "phr",
+            text_uz: "kimnidir xotirjam qilmoq",
+            text_en: "put (someone) at ease",
+            description: "My friend Marc is very good at putting people at ease in new situations."
+          },
+          {
+            id: 62,
+            key: "phr",
+            text_uz: "noqulay ahvolga solmoq",
+            text_en: "put your foot in it",
+            description: "Can you remember a conversation when you put your foot in it?"
+          },
+          {
+            id: 63,
+            key: "n",
+            text_uz: "jarlik, chuqurlik, dara",
+            text_en: "ravine",
+            description: "La Gomera's steep hills and deep ravines make it difficult to cross."
+          },
+          {
+            id: 64,
+            key: "v",
+            text_uz: "sabab bo'lmoq",
+            text_en: "result (in)",
+            description: "In Russia it is believed that whistling indoors can result in bad luck."
+          },
+          {
+            id: 65,
+            key: "n",
+            text_uz: "o'quv qurollari",
+            text_en: "stationery",
+            description: "Newspapers have reported a rise in stationery sales."
+          },
+          {
+            id: 66,
+            key: "adj",
+            text_uz: "tik",
+            text_en: "steep",
+            description: "La Gomera has numerous steep hills."
+          },
+          {
+            id: 67,
+            key: "phrv",
+            text_uz: "egallamoq (vaqtni)",
+            text_en: "take up",
+            description: "I won't take up any more of your time."
+          },
+          {
+            id: 68,
+            key: "phr",
+            text_uz: "ko'ngilochar hikoya aytib bermoq",
+            text_en: "tell an entertaining story",
+            description: "Can you tell me an entertaining story?"
+          },
+          {
+            id: 69,
+            key: "n",
+            text_uz: "ukulele, gavayi gitarasi",
+            text_en: "ukulele",
+            description: "Is the ukulele as popular in Spain as it is here?"
+          },
+          {
+            id: 70,
+            key: "n",
+            text_uz: "vulqon",
+            text_en: "volcano",
+            description: "La Gomera is a tiny Spanish island, just the tip of a volcano... "
+          },
+          {
+            id: 71,
+            key: "v",
+            text_uz: "hushtak chalmoq",
+            text_en: "whistle",
+            description: "We whistle when we want to get someone's attention."
+          },
+          {
+            id: 72,
+            key: "pron",
+            text_uz: "qaysiki (insonlarga nisbatan)",
+            text_en: "whom",
+            description: "About 1.8 billion people in the world speak English, 359 million of whom speak it as a native language."
+          },
+        ],
         unit2: [],
         unit3: [],
         unit4: [],
