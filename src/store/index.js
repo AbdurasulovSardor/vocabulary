@@ -21233,7 +21233,703 @@ export default createStore({
             description: "About 1.8 billion people in the world speak English, 359 million of whom speak it as a native language."
           },
         ],
-        unit2: [],
+        unit2: [
+          {
+            id: 1,
+            key: "v",
+            text_uz: "sherik bo'lmoq, kuzatib bormoq",
+            text_en: "accompany",
+            description: "There was no question that Mary Kingsley could accompany her father on his travels."
+          },
+          {
+            id: 2,
+            key: "adj",
+            text_uz: "sarguzashtni sevuvchi",
+            text_en: "adventurous",
+            description: "You need to be more adventurous. Step out of your comfort zone."
+          },
+          {
+            id: 3,
+            key: "adj",
+            text_uz: "tashvishli",
+            text_en: "anxious",
+            description: "Henry Brown must have felt anxious before he got into his box."
+          },
+          {
+            id: 4,
+            key: "v",
+            text_uz: "o'ziga tortmoq, ko'ngliga yoqmoq",
+            text_en: "appeal",
+            description: "The cold weather doesn't appeal to me."
+          },
+          {
+            id: 5,
+            key: "n",
+            text_uz: "yordam",
+            text_en: "assistance",
+            description: "With the assistance of two friends, Henry made arrangements for them to receive the package."
+          },
+          {
+            id: 6,
+            key: "n",
+            text_uz: "yuk",
+            text_en: "baggage",
+            description: "Put the baggage in the trunk."
+          },
+          {
+            id: 7,
+            key: "adj",
+            text_uz: "achchiq",
+            text_en: "bitter",
+            description: "Henry Brown felt bitter after his owner allowed his family to be taken from him."
+          },
+          {
+            id: 8,
+            key: "phr",
+            text_uz: "samolyotga chiqmoq",
+            text_en: "board the plane",
+            description: "Passengers were asked to stay seated whilst passengers from Miami boarded the plane."
+          },
+          {
+            id: 9,
+            key: "n",
+            text_uz: "mashina yukxonasi",
+            text_en: "boot",
+            description: "Put the luggage in the boot."
+          },
+          {
+            id: 10,
+            key: "n",
+            text_uz: "o'simlikshunos",
+            text_en: "botanist",
+            description: "North's painting provided botanists in Europe with the first images of some very unusual plants."
+          },
+          {
+            id: 11,
+            key: "n",
+            text_uz: "avtofurgon",
+            text_en: "campervan",
+            description: "We went camping in our campervan in the south of France."
+          },
+          {
+            id: 12,
+            key: "n",
+            text_uz: "baydarka(qayiq turi)",
+            text_en: "canoe",
+            description: "Mary Kingsley was paddling up rivers in a canoe."
+          },
+          {
+            id: 13,
+            key: "n",
+            text_uz: "g'ildirakli ko'chma uy",
+            text_en: "caravan",
+            description: "For our last holiday, we rented a caravan and drove to the west coast."
+          },
+          {
+            id: 14,
+            key: "n",
+            text_uz: "duradgor",
+            text_en: "carpenter",
+            description: "Henry Brown asked a friend, who was a carpenter, to build him a box."
+          },
+          {
+            id: 15,
+            key: "n",
+            text_uz: "farroshlar",
+            text_en: "cleaning staff",
+            description: "Cleaning staff would enter the plane in order to prepare the seats for the new passengers."
+          },
+          {
+            id: 16,
+            key: "n",
+            text_uz: "hamroh, sherik",
+            text_en: "companion",
+            description: "If you need a travelling companion, let me know."
+          },
+          {
+            id: 17,
+            key: "n",
+            text_uz: "musobaqa",
+            text_en: "competition",
+            description: "The newspaper held a competition in which readers had to guess how long it would take Bly to circle the globe."
+          },
+          {
+            id: 18,
+            key: "n",
+            text_uz: "jasorat",
+            text_en: "courage",
+            description: "Because of the extraordinary courage he had shown, his story became famous."
+          },
+          {
+            id: 19,
+            key: "n",
+            text_uz: "timsoh",
+            text_en: "crocodile",
+            description: "Mary Kingsley once had an encounter with a crocodile."
+          },
+          {
+            id: 20,
+            key: "adj",
+            text_uz: "hayratlangan",
+            text_en: "delighted",
+            description: "Henry Brown was delighted when he reached Philadelphia safely in his box."
+          },
+          {
+            id: 21,
+            key: "n",
+            text_uz: "manzil",
+            text_en: "destination",
+            description: "Why had Henry Brown chosen Pennsylvania as his destination?"
+          },
+          {
+            id: 22,
+            key: "n",
+            text_uz: "qat'iyat",
+            text_en: "determination",
+            description: "Henry Brown had shown great determination on his way to freedom."
+          },
+          {
+            id: 23,
+            key: "adj",
+            text_uz: "qat'iyatli",
+            text_en: "determined",
+            description: "This terrible loss made Brown determined to escape slavery."
+          },
+          {
+            id: 24,
+            key: "adj",
+            text_uz: "yo'lini yo'qotgan",
+            text_en: "disorientated",
+            description: "When Henry Brown first climbed out of his box, he felt disorientated."
+          },
+          {
+            id: 25,
+            key: "n",
+            text_uz: "muharrir",
+            text_en: "editor",
+            description: "Bly suggested to her editor that his newspaper should pay for her trip."
+          },
+          {
+            id: 26,
+            key: "n",
+            text_uz: "to'qnashuv",
+            text_en: "encounter",
+            description: "Mary Kingsley had encounters with all kinds of animals on her travels."
+          },
+          {
+            id: 27,
+            key: "v",
+            text_uz: "boyitmoq, yaxshilamoq",
+            text_en: "enrich",
+            description: "Learning holidays can enrich your life long after the trip is over."
+          },
+          {
+            id: 28,
+            key: "v",
+            text_uz: "ta'minlamoq, kafolatlamoq",
+            text_en: "ensure",
+            description: "Please investigate the matter to ensure that this does not happen to other passengers."
+          },
+          {
+            id: 29,
+            key: "n",
+            text_uz: "tadqiqotchi",
+            text_en: "explorer",
+            description: "Mary Kingsley was the first explorer to show proper respect to the African people."
+          },
+          {
+            id: 30,
+            key: "n",
+            text_uz: "avtomagistral, katta yo'l",
+            text_en: "expressway",
+            description: "An expressway in North American English is called a motorway in British English."
+          },
+
+          {
+            id: 31,
+            key: "n",
+            text_uz: "lochin",
+            text_en: "falcon",
+            description: "The falcons are well trained, so it's super safe."
+          },
+          {
+            id: 32,
+            key: "n",
+            text_uz: "jasorat",
+            text_en: "feat",
+            description: "In honour of this creative but dangerous feat, he became known as Henry 'Box' Brown."
+          },
+          {
+            id: 33,
+            key: "adj",
+            text_uz: "g'azablangan",
+            text_en: "furious",
+            description: "Henry Brown must have been furious when his wife and children were sold."
+          },
+          {
+            id: 34,
+            key: "n",
+            text_uz: "gladiator (qadimiy rim qul jangchilari)",
+            text_en: "gladiator",
+            description: "You've got a chance to train and experience what it was like to fight as a gladiator."
+          },
+          {
+            id: 35,
+            key: "n",
+            text_uz: "gorilla (katta maymun turi)",
+            text_en: "gorilla",
+            description: "Kingsley was one of the first Europeans to see a gorilla with her own eyes."
+          },
+          {
+            id: 36,
+            key: "n",
+            text_uz: "yashash joyi, muhit",
+            text_en: "habitat",
+            description: "I'd like to see the penguins in their natural habitat."
+          },
+          {
+            id: 37,
+            key: "adj",
+            text_uz: "quvnoq, kulguli ",
+            text_en: "hilarious",
+            description: "That's hilarious!"
+          },
+          {
+            id: 38,
+            key: "n",
+            text_uz: "ta'til",
+            text_en: "holiday",
+            description: "A place I'd really like to go on holiday this year is Istanbul."
+          },
+          {
+            id: 39,
+            key: "n",
+            text_uz: "uy yumushlar",
+            text_en: "household chore",
+            description: "Mary Kingsley much prefered paddling up rivers to household chores."
+          },
+          {
+            id: 40,
+            key: "v",
+            text_uz: "e'tibor bermaslik",
+            text_en: "ignore",
+            description: "Her father's medical friends had warned her about tropical diseases, but she ignored them."
+          },
+          {
+            id: 41,
+            key: "adj",
+            text_uz: "noqulay",
+            text_en: "inconvenient",
+            description: "They lost my luggage. Just for a day, but still very inconvenient."
+          },
+          {
+            id: 42,
+            key: "v",
+            text_uz: "o'rganib chiqmoqchin",
+            text_en: "investigate",
+            description: "I have asked the airline to investigate the incident."
+          },
+          {
+            id: 43,
+            key: "n",
+            text_uz: "meros",
+            text_en: "legacy",
+            description: "Collecting two species of fish which were unknown before was not Mary Kingsley's only legacy."
+          },
+          {
+            id: 44,
+            key: "n",
+            text_uz: "qoplon",
+            text_en: "leopard",
+            description: "Kingsley rescued a leopard that had got caught in a trap."
+          },
+          {
+            id: 45,
+            key: "n",
+            text_uz: "yuk mashinasi",
+            text_en: "lorry",
+            description: "There had been an accident on the motorway ahead of us - a lorry had turned over."
+          },
+          {
+            id: 46,
+            key: "n",
+            text_uz: "yuk",
+            text_en: "luggage",
+            description: "They lost my luggage."
+          },
+          {
+            id: 47,
+            key: "adj",
+            text_uz: "ulkan",
+            text_en: "massive",
+            description: "There was a massive queue at security control."
+          },
+          {
+            id: 48,
+            key: "adj",
+            text_uz: "qayg'uli",
+            text_en: "miserable",
+            description: "Henry Brown felt miserable while he was travelling in the box. "
+          },
+          {
+            id: 49,
+            key: "n",
+            text_uz: "vazifa, topshiriq",
+            text_en: "mission",
+            description: "She had two missions to complete while she was touring the continent."
+          },
+          {
+            id: 50,
+            key: "n",
+            text_uz: "loy",
+            text_en: "muddy",
+            description: "Her boots were muddy because she went for a walk in the woods after it had rained."
+          },
+          {
+            id: 51,
+            key: "n",
+            text_uz: "bir tomonlama chipta",
+            text_en: "one-way ticket",
+            description: "Would you like a one-way or a round-trip bus ticket?"
+          },
+          {
+            id: 52,
+            key: "phr",
+            text_uz: "mavsumdan tashqari",
+            text_en: "out of season",
+            description: "It gets touristy in the summer, so it's probably best to go out of season."
+          },
+          {
+            id: 53,
+            key: "n",
+            text_uz: "jo'natma",
+            text_en: "package",
+            description: "People in Pennsylvania were waiting anxiously for the arrival of the package from Virginia."
+          },
+          {
+            id: 54,
+            key: "n",
+            text_uz: "eshkak, belkurak,",
+            text_en: "paddle",
+            description: "The crocodile tried to climb into her canoe, so she hit it on the head with a paddle."
+          },
+          {
+            id: 55,
+            key: "n",
+            text_uz: "yo'lak",
+            text_en: "pavement",
+            description: "There was a lot of rubbish on the pavement."
+          },
+          {
+            id: 56,
+            key: "adj",
+            text_uz: "tosh qotgan (qo'rquvdan)",
+            text_en: "petrified",
+            description: "I bet you were petrified!"
+          },
+          {
+            id: 57,
+            key: "n",
+            text_uz: "benzin",
+            text_en: "petrol",
+            description: "There was a long queue at the petrol station."
+          },
+          {
+            id: 58,
+            key: "adj",
+            text_uz: "jismoniy",
+            text_en: "physical",
+            description: "Henry Brown didn't suffer physical abuse."
+          },
+          {
+            id: 59,
+            key: "n",
+            text_uz: "ananas bargi",
+            text_en: "pineapple leaf",
+            description: "The local people taught her how to fish with pineapple leaves. "
+          },
+          {
+            id: 60,
+            key: "adj",
+            text_uz: "boshi qotgan",
+            text_en: "puzzled",
+            description: "The luggage handlers would have been puzzled if they had heard a noise coming from the box."
+          },
+
+          {
+            id: 61,
+            key: "n",
+            text_uz: "navbat",
+            text_en: "queue",
+            description: "There was a very long queue for the toilets."
+          },
+          {
+            id: 62,
+            key: "n",
+            text_uz: "rekord",
+            text_en: "record",
+            description: "Kira Salak set a Wisconsin state record in cross-country running."
+          },
+          {
+            id: 63,
+            key: "adj",
+            text_uz: "yengil, xotirjam",
+            text_en: "relieved",
+            description: "He was relieved because he had found his passport."
+          },
+          {
+            id: 64,
+            key: "adj",
+            text_uz: "olis, yiroq",
+            text_en: "remote",
+            description: "If you go somewhere remote, it is far away from places where other people live."
+          },
+          {
+            id: 65,
+            key: "n",
+            text_uz: "sudralib yuruvchilar",
+            text_en: "reptilen",
+            description: "Mary Kingsley set off alone along the river in search of fish and reptiles."
+          },
+          {
+            id: 66,
+            key: "phr",
+            text_uz: "tovon puli talab qilmoq",
+            text_en: "request compensation",
+            description: "I am requesting compensation for the MP3 player."
+          },
+          {
+            id: 67,
+            key: "n",
+            text_uz: "mas'uliyat",
+            text_en: "responsibility",
+            description: "I feel that the airline should take responsibility for this incident."
+          },
+          {
+            id: 68,
+            key: "n",
+            text_uz: "borish-kelish chiptasi",
+            text_en: "return ticket",
+            description: "Would you like a single or a return ticket?"
+          },
+          {
+            id: 69,
+            key: "n",
+            text_uz: "riksha (transport turi)",
+            text_en: "rickshaw",
+            description: "Bly travelled by ship, horse, rickshaw and other vehicles."
+          },
+          {
+            id: 70,
+            key: "phr",
+            text_uz: "qiyinchilikarga chidash",
+            text_en: "rough it ",
+            description: "I'm not very good at roughing it. I like life's little luxuries!"
+          },
+          {
+            id: 71,
+            key: "adj",
+            text_uz: "ikki yoqlama safar",
+            text_en: "round-trip",
+            description: "Are you buying a round-trip ticket to Los Angeles or are you staying there?"
+          },
+          {
+            id: 72,
+            key: "n",
+            text_uz: "chiqit",
+            text_en: "rubbish",
+            description: "There was a lot of rubbish on the pavement."
+          },
+          {
+            id: 73,
+            key: "n",
+            text_uz: "maktab o'yingohi",
+            text_en: "school playground",
+            description: "You know what I'd done? I had parked in a school playground! "
+          },
+          {
+            id: 74,
+            key: "phr v",
+            text_uz: "jo'nab ketmoq, yo'lga chiqmoq",
+            text_en: "set off",
+            description: "She set off alone on her journey."
+          },
+          {
+            id: 75,
+            key: "n",
+            text_uz: "yo'lak",
+            text_en: "sidewalk",
+            description: "Lots of streets in the US don't have sidewalks."
+          },
+          {
+            id: 76,
+            key: "n",
+            text_uz: "bir tomonga chipta",
+            text_en: "single ticket",
+            description: "I would like a single ticket into town, please."
+          },
+          {
+            id: 77,
+            key: "n",
+            text_uz: "qullik",
+            text_en: "slavery",
+            description: "Henry Brown escaped from slavery by shipping himself as freight to Pennsylvania."
+          },
+          {
+            id: 78,
+            key: "phr",
+            text_uz: "sho'ng'ish, berilib ketish",
+            text_en: "soak up",
+            description: "It would be great just to wander around the old streets and soak up the atmosphere."
+          },
+          {
+            id: 79,
+            key: "n",
+            text_uz: "esdalik",
+            text_en: "souvenir",
+            description: "Wouldn't you like to come home from holiday with something more useful than lots of souvenirs?"
+          },
+          {
+            id: 80,
+            key: "adj",
+            text_uz: "uchli, qirrali",
+            text_en: "spiky",
+            description: "Mary Kingsley once fell into a hole and landed on a spiky branch."
+          },
+          {
+            id: 81,
+            key: "phr",
+            text_uz: "qulaylik zonasidan chiqib ketmoq",
+            text_en: "step out of your comfort zone",
+            description: "Do you ever step out of your comfort zone?"
+          },
+          {
+            id: 82,
+            key: "adj",
+            text_uz: "maftunkor",
+            text_en: "stunning",
+            description: "The views from Machu Picchu are absolutely stunning."
+          },
+          {
+            id: 83,
+            key: "n",
+            text_uz: "botqoq",
+            text_en: "swamp",
+            description: "Marianne North crossed muddy swamps to find the plants she wanted."
+          },
+          {
+            id: 84,
+            key: "v",
+            text_uz: "yengil urib qo'yish",
+            text_en: "tap",
+            description: "One of the men tapped on the box and asked: 'Is all right inside?'"
+          },
+          {
+            id: 85,
+            key: "adj",
+            text_uz: "asabi tarang",
+            text_en: "tense",
+            description: "The men receiving Henry Brown's box were very tense."
+          },
+          {
+            id: 86,
+            key: "adj",
+            text_uz: "qo'rqqan",
+            text_en: "terrified",
+            description: "The people waiting for Henry Brown were terrified that he would not arrive safely."
+          },
+          {
+            id: 87,
+            key: "n",
+            text_uz: "hojatxona",
+            text_en: "toilet",
+            description: "Can you tell me where the toilets are?"
+          },
+          {
+            id: 88,
+            key: "n",
+            text_uz: "to'fon",
+            text_en: "tornado",
+            description: "Mary Kingsley had to deal with extreme heat and tornadoes."
+          },
+          {
+            id: 89,
+            key: "adj",
+            text_uz: "sayyohlar bilan gavjum",
+            text_en: "touristy",
+            description: "I imagine it gets quite touristy in the summer."
+          },
+          {
+            id: 90,
+            key: "n",
+            text_uz: "yo'l harakati tirbandligi",
+            text_en: "traffic jam",
+            description: "After about half an hour, we got stuck in a traffic jam."
+          },
+          {
+            id: 91,
+            key: "n",
+            text_uz: "sayohat tirkamasi",
+            text_en: "travel trailer",
+            description: "We love going on holiday with our travel trailer."
+          },
+          {
+            id: 92,
+            key: "n",
+            text_uz: "piyoda sayohat",
+            text_en: "trek",
+            description: "Kira Salak went on a solo jungle trek through Papua New Guinea."
+          },
+          {
+            id: 93,
+            key: "n",
+            text_uz: "urf",
+            text_en: "trend",
+            description: "Learning vacations are the hottest new trend in travel."
+          },
+          {
+            id: 94,
+            key: "n",
+            text_uz: "yuk mashinasi",
+            text_en: "truck",
+            description: "Trucks can transport lots of goods at the same time."
+          },
+          {
+            id: 95,
+            key: "n",
+            text_uz: "metro",
+            text_en: "underground",
+            description: "I like the free papers you can get at Underground stations."
+          },
+          {
+            id: 96,
+            key: "adj",
+            text_uz: "xafa bo'lgan",
+            text_en: "upset",
+            description: "I was upset that my MP3 player was stolen."
+          },
+          {
+            id: 97,
+            key: "n",
+            text_uz: "ta'til",
+            text_en: "vacation",
+            description: "There are many interesting learning vacations that you can go on."
+          },
+          {
+            id: 98,
+            key: "v",
+            text_uz: "sarson-sargardon",
+            text_en: "wander",
+            description: "It would be great just to wander around the old streets."
+          },
+          {
+            id: 99,
+            key: "phr",
+            text_uz: "hurmat va ehtirom ila",
+            text_en: "yours faithfully",
+            description: "I look forward to your reply. Yours faithfully, Kevin Peters."
+          },
+        ],
         unit3: [],
         unit4: [],
         unit5: [],
