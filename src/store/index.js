@@ -21930,7 +21930,15 @@ export default createStore({
             description: "I look forward to your reply. Yours faithfully, Kevin Peters."
           },
         ],
-        unit3: [],
+        unit3: [
+          {
+            id: 1,
+            key: "",
+            text_uz: "",
+            text_en: "",
+            description: ""
+          },
+        ],
         unit4: [],
         unit5: [],
         unit6: [],
