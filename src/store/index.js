@@ -20,25 +20,11 @@ export default createStore({
             description: "The English alphabet has twenty-six letters",
           },
           {
-            id: 3,
-            key: "v",
-            text_uz: "bo'lmoq",
-            text_en: "am",
-            description: "I am here on holiday",
-          },
-          {
             id: 4,
             key: "conj",
             text_uz: "va",
             text_en: "and",
             description: "Nice to meet you. And you",
-          },
-          {
-            id: 5,
-            key: "v",
-            text_uz: "bo'lmoq",
-            text_en: "are",
-            description: "Are you here to study",
           },
           {
             id: 6,
@@ -179,13 +165,6 @@ export default createStore({
             text_uz: "tanishtirmoq",
             text_en: "introduce",
             description: "Henry, let me introduce you to Lena",
-          },
-          {
-            id: 26,
-            key: "v",
-            text_uz: "bo'lmoq",
-            text_en: "is",
-            description: "My address is 909 Cameron Road, Austin, Texas",
           },
           {
             id: 27,
@@ -329,13 +308,6 @@ export default createStore({
           },
         ],
         unit2: [
-          {
-            id: 1,
-            key: " ",
-            text_uz: "noaniq artikl",
-            text_en: "a, an",
-            description: "She's an engineer and he's a chef.",
-          },
           {
             id: 2,
             key: "prep",
@@ -522,7 +494,7 @@ export default createStore({
             id: 30,
             key: "n",
             text_uz: "Meksika",
-            text_en: "Mexico.",
+            text_en: "Mexico",
             description: "He's a teacher at a school in Mexico",
           },
           {
@@ -800,13 +772,6 @@ export default createStore({
           },
         ],
         unit3: [
-          {
-            id: 1,
-            key: " ",
-            text_uz: "kunduzgi vaqt",
-            text_en: "a.m",
-            description: "I'mat work from 8 a.m. to 7 p.m.",
-          },
           {
             id: 2,
             key: "n",
@@ -1095,13 +1060,6 @@ export default createStore({
             description: "Filipa's house is in Warsaw.",
           },
           {
-            id: 44,
-            key: "n",
-            text_uz: "shifokor",
-            text_en: "doctor",
-            description: "Agneta's husband is a doctor.",
-          },
-          {
             id: 45,
             key: "adj",
             text_uz: "qiziqarli",
@@ -1198,20 +1156,6 @@ export default createStore({
             text_uz: "eski, qari",
             text_en: "old",
             description: "I've got an old bicycle.",
-          },
-          {
-            id: 59,
-            key: "adj",
-            text_uz: "...yoshda...",
-            text_en: "old (age)",
-            description: "Oliver is eight years old.",
-          },
-          {
-            id: 60,
-            key: " ",
-            text_uz: "kunning ikkinchi yarmi",
-            text_en: "p.m",
-            description: "She's at work from 6 a.m. to 5 p.m. every day.",
           },
           {
             id: 61,
@@ -1489,13 +1433,6 @@ export default createStore({
             description: "He also plays card games",
           },
           {
-            id: 11,
-            key: "n",
-            text_uz: "sent(pul birligi)",
-            text_en: "cent",
-            description: "It's two dollars fifty cents",
-          },
-          {
             id: 12,
             key: "n",
             text_uz: "xayriya",
@@ -1755,13 +1692,6 @@ export default createStore({
             description: "I don't live in Sydney.",
           },
           {
-            id: 49,
-            key: "n pl",
-            text_uz: "hayotlar",
-            text_en: "lives",
-            description: "Their lives are very different",
-          },
-          {
             id: 50,
             key: "n",
             text_uz: "mototsikl",
@@ -1802,13 +1732,6 @@ export default createStore({
             text_uz: "xiyobon",
             text_en: "park",
             description: "London Zoo is in The Regent's Park",
-          },
-          {
-            id: 56,
-            key: "n pl",
-            text_uz: "pens(pul birligi)",
-            text_en: "pence",
-            description: "It's five pounds ninety-nine pence",
           },
           {
             id: 57,
