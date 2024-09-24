@@ -2040,7 +2040,7 @@ export default createStore({
           {
             id: 20,
             key: "adj",
-            text_uz: "erkin,kundalik",
+            text_uz: "oddiy kiyim",
             text_en: "casual",
             description: "I sometimes wear casual clothes",
           },
