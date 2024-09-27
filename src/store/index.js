@@ -3877,7 +3877,7 @@ export default createStore({
             id: 6,
             key: "n",
             text_uz: "tavallud kun",
-            text_en: "brithday",
+            text_en: "birthday",
             description: "When is your birthday?",
           },
           {
@@ -4010,7 +4010,7 @@ export default createStore({
             id: 25,
             key: "n",
             text_uz: "hikoyachi",
-            text_en: "stroyreller",
+            text_en: "storyteller",
             description: "Hans Christian Andersen was a famous storyteller from Denmark.",
           },
           {
@@ -4038,7 +4038,7 @@ export default createStore({
             id: 29,
             key: "-",
             text_uz: "birinchi",
-            text_en: "frist",
+            text_en: "first",
             description: " ",
           },
           {
