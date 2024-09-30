@@ -4277,8 +4277,8 @@ export default createStore({
           {
             id: 6,
             key: "adj",
-            text_uz: "cloud",
-            text_en: "bulutli",
+            text_uz: "bulutli",
+            text_en: "cloud ",
             description: "in winter it is cloudy and often rainy",
           },
           {
@@ -4369,8 +4369,8 @@ export default createStore({
             id: 19,
             key: "v",
             text_uz: "unutmoq",
-            text_en: "forger",
-            description: "ı forgot the time of my meeting with the team .",
+            text_en: "forget",
+            description: "I forgot the time of my meeting with the team .",
           },
           {
             id: 20,
@@ -4487,7 +4487,7 @@ export default createStore({
           {
             id: 36,
             key: "n",
-            text_uz: "buyurtma",
+            text_uz: "millioner",
             text_en: "millionaire",
             description: "People think that it is a group of internet millionaires from California.",
           },
